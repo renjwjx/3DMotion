@@ -1,0 +1,2652 @@
+{
+  "sourceHAR": "SpiderProxy-20261012-202930.har",
+  "generatedAt": "2026-10-12T22:50:38+0800",
+  "actionCount": 70,
+  "categoryCount": 8,
+  "externalModelAssets": [
+    "obj.fbm/Eyelashes_alp.png",
+    "obj.fbm/bone_muscle_combie_N.jpg",
+    "obj.fbm/bone_new_d.jpg",
+    "obj.fbm/muscle_a_new_d.jpg",
+    "obj.fbm/muscle_a_new_n.jpg",
+    "obj.fbm/rendai_c_a.jpg",
+    "obj.fbm/rendai_n_a.jpg",
+    "obj.fbm/shadow.png",
+    "obj.fbm/wufei_combie_gai.jpg"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/index.html",
+      "bytes": 519,
+      "sha256": "fa8caf3b240bfe86ad49074e7b81abce3f0dc2a0667f6f44a6edff15a1424915",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/1",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/1",
+      "bytes": 455080,
+      "sha256": "2a0453d4555a94c1ed6d3f8b4c3d2d46690aa01cec77f37fd1738d537a908129",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/10",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/10",
+      "bytes": 848216,
+      "sha256": "98a1e51b3fe286fe9b59815d85ff4d48f07acc8db2b92d037ad62fa3865f5482",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/11",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/11",
+      "bytes": 729720,
+      "sha256": "101b49a6fafb78800fd873aa1823d01dea84becf4fa03e3fdc81a7397babe9f8",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/12",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/12",
+      "bytes": 321832,
+      "sha256": "b9aafe95b8c745a3005e95b2bb5f8ff4597461c73c9ff7a6477c4ae2fe29c3b8",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/19",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/19",
+      "bytes": 527064,
+      "sha256": "4aec2d51073c8b36e5c19b1b5bfb56d42746740e1e49b38dd43acf7c8fca7109",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/2",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/2",
+      "bytes": 1097240,
+      "sha256": "acfd0bc4a511e4b4cbdc8841981b1c82e2617da1c7c7b383d032385780310ed2",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/20",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/20",
+      "bytes": 485800,
+      "sha256": "cfcfa596a62052508b574934244d91eb87635dc4f525734a3957a6d73f711a73",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/21",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/21",
+      "bytes": 485800,
+      "sha256": "9162816fc26c99fcd81ddc0863ea468de9b6b16bf34d9c2085d5fa21dbaf0428",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/22",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/22",
+      "bytes": 428552,
+      "sha256": "963ae54e8ae07719492937bd66594a0441823f5d90cc275e7b34bda03d4b3881",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/23",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/23",
+      "bytes": 1657304,
+      "sha256": "5a942c6d84abffb158dd77f5ddf7c58fc4a1e8a3f53f1c2dbfd47e2b32bd4016",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/24",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/24",
+      "bytes": 1595064,
+      "sha256": "440641d2205585247482cb63a42356a82feb2561a6bc29bc4f4f19bc520c507f",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/25",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/25",
+      "bytes": 1572856,
+      "sha256": "d490d2ee353f3994801794e60b0d7fd8eb9993261f98c55dcfb19282f2e1d307",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/26",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/26",
+      "bytes": 1455096,
+      "sha256": "c9630f39a8763294724206317712012aded68ff16ed616dba1403e71bb595f16",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/27",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/27",
+      "bytes": 1130216,
+      "sha256": "6a6c27ac42a79d536d0ee44588da5113b7ad6b6654a3764e37342c34942a2f9c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/28",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/28",
+      "bytes": 999032,
+      "sha256": "da53d6a53f84871f360a46942f8752a89d59492d3ee43131587381fc174432b9",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/29",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/29",
+      "bytes": 1080520,
+      "sha256": "15d7dbbd8618c5695711110f1d829675d4b3da584a249bb91eda0f61081b93d0",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/3",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/3",
+      "bytes": 1234088,
+      "sha256": "bc97842c515fd682923a51733f2aefd01038a94af1addac3381e9b56a60828d4",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/30",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/30",
+      "bytes": 1133256,
+      "sha256": "b386dcdbadb4524c90f3810feec76b74c40d7085943d9479d60aec2f7989a7b1",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/31",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/31",
+      "bytes": 1361272,
+      "sha256": "3422f2904231a1169deb3a68532eeb44c978bb3a2ffd49400c3f856d3c784251",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/32",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/32",
+      "bytes": 1253432,
+      "sha256": "c6f4d45c8255d55a57c1319bff0cd24548fec3d5000a366fa29c66e6a271d67f",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/33",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/33",
+      "bytes": 1253256,
+      "sha256": "2cd1c333eaddf77366d9cb2c5b530d35c81355abbbbf22127df27b1986e06873",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/34",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/34",
+      "bytes": 1152296,
+      "sha256": "c9919a851ce741a38801405641490746538e4ad639c09cb7ce70ba07881ff37c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/35",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/35",
+      "bytes": 1257192,
+      "sha256": "e85342d72174394b00e632a96046f1e511685a1b08887a28f621af694d40bc9c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/36",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/36",
+      "bytes": 255144,
+      "sha256": "6ae897f16deaacc7704eb09aef5be4e8ebeb41771b281fbd15a0a244eeb302ae",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/37",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/37",
+      "bytes": 270008,
+      "sha256": "15fd071f08bd026b4271530f3e826160766266f4d38dd311c7894d6ab80d12c6",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/38",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/38",
+      "bytes": 644808,
+      "sha256": "22b3c2d78eccba35e4ad9434771bc57e9ab733f2254f56aa989e3a6796003392",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/39",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/39",
+      "bytes": 276744,
+      "sha256": "3ab808971c08566dd5ff51860258280118e734ff571aa652825babcb4fab95fe",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/4",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/4",
+      "bytes": 1188472,
+      "sha256": "b38c1968b7f5edcc266bde132b3469a8af1ef36b8a00da4a79567bd859cd9589",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/40",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/40",
+      "bytes": 648264,
+      "sha256": "8d000c1e45f1e174cf004902d744e5491152cc6d23e440c77d57da98c62b13ae",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/41",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/41",
+      "bytes": 632680,
+      "sha256": "7f61c7e88e88b0beb1bc5b68131fdf0332355889ed9cf9aff4dc9fb2bdc265bb",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/42",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/42",
+      "bytes": 271112,
+      "sha256": "4053f36504bd85011c6acbee7848a836092db94fee120f11d3c6db889cb041c5",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/43",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/43",
+      "bytes": 435352,
+      "sha256": "3d5b6539f479d7709712f6ac748422bbe4dcd9faf93217bea204c571570009e3",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/44",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/44",
+      "bytes": 191480,
+      "sha256": "e81cfabaa9aee3d4a5f0c73f6aebd108918846e403a7554366d8d94324cdfde8",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/45",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/45",
+      "bytes": 186040,
+      "sha256": "1b96b2d6f22b8def223581c89d4af21ab2b91caccf479055e0d3f8c0475dc342",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/46",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/46",
+      "bytes": 283288,
+      "sha256": "3f9c3ed9164c57babd607d61be5b8f16ed3d48caddb7fe747c3ba1e41343a4af",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/47",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/47",
+      "bytes": 299320,
+      "sha256": "58f3105c522d8a4c364269476316d5192c528416021c0f15d9d34f21e5cfd5a6",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/48",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/48",
+      "bytes": 488536,
+      "sha256": "05a6fef0a3ccdc9d3173d66eb5a29e1087779d2e2886c6d078397b8ecc11a869",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/49",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/49",
+      "bytes": 494616,
+      "sha256": "c326f8e41cce04db5e4dc2e6b4ad7ea285f08fb8c115dcb4718d55fa0a42e4b5",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/5",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/5",
+      "bytes": 925448,
+      "sha256": "5ee43235c871970c792bea6bcfb60519d582ff6926ec8339b2dbca06907d95b7",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/50",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/50",
+      "bytes": 436392,
+      "sha256": "0d705f4ad850719f91d3d4a1dc127d191507cb689e2022b9f49d978d921f51c7",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/51",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/51",
+      "bytes": 507624,
+      "sha256": "46d0ebb9440fe4073f66a391e0fa278353a44aa54749f8f0efa2de066b315449",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/52",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/52",
+      "bytes": 329736,
+      "sha256": "5cb0e0d6e32828eaaa07b5ef3a186994f7da3f785f33d55f4fa508a8a9598691",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/53",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/53",
+      "bytes": 363832,
+      "sha256": "9b68579b3298d2319b278e9e016826e4325c3dc25ae6b92c35b0cd94387709af",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/54",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/54",
+      "bytes": 404808,
+      "sha256": "1789548b2aec3fdee52b108a5494b946bf07b82febe7c9b7b4aace992ed3d7b3",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/55",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/55",
+      "bytes": 434456,
+      "sha256": "795418a0b27bc07cd68c7e77054eae1aa1225bbefd26db4df8aa3f896deedb86",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/56",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/56",
+      "bytes": 394472,
+      "sha256": "c97413ef00314520e639b8c1bc35ee476c5742255bf7911ad3d9153e548f9e14",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/57",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/57",
+      "bytes": 298056,
+      "sha256": "b2f733d9a688f3bd2c0ee1679e80ccbe26db21194fa337c08747ff88e44e36fb",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/58",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/58",
+      "bytes": 256760,
+      "sha256": "46718c181c3796a689d1a5664e035f00193ab0f18d576e091639a83d649268f7",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/59",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/59",
+      "bytes": 254344,
+      "sha256": "e27742a7617c5d12a42105d3bf78675801f71a3d817181d05268b0457bfeac27",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/6",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/6",
+      "bytes": 1090104,
+      "sha256": "7006f2b7999276d0115245b77750d7e618f17ecc032f8a2855f0b21d6e7c21cd",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/60",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/60",
+      "bytes": 286888,
+      "sha256": "cdbdaf7624deeba1fecfdae5718c6c47ef61867250eeed8597b1270e2a9f8ec4",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/61",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/61",
+      "bytes": 310920,
+      "sha256": "188be6c99684808bef7e5d0d53faa3bcd5e7b46c5c8f0e2684a2b850d1734c36",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/62",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/62",
+      "bytes": 276936,
+      "sha256": "29e92d8a7f2ffc39c59431615c75ac5561d2bf8f9b25b34faa06303a0cf5a48b",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/63",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/63",
+      "bytes": 1578024,
+      "sha256": "c50c1c2de1bdf4d71fd34daac33f8811b9b1161df90a2faed36849a8036bb120",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/64",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/64",
+      "bytes": 1343656,
+      "sha256": "146927810eb0b9ebc1ac1a13ce186ac58c78139de6eba4aa932cfeb74b0c5530",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/65",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/65",
+      "bytes": 1617752,
+      "sha256": "55dd35c8c0e65c6d2aa74c012646c65d6e778e3135f030291e3dd331e43464b5",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/66",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/66",
+      "bytes": 1575144,
+      "sha256": "d02d24e774bf4a34071d5f0a9984cca1b716dde250a2d40055c3b851e091963c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/67",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/67",
+      "bytes": 1319816,
+      "sha256": "035150e5bab38765e65d57c8c929d3cb2c9f2f0381e1faf0f8e660bdfa91acc8",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/68",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/68",
+      "bytes": 1183720,
+      "sha256": "7c05f79960a7bf331a7a56182b74e3d2529bf762b930731491405d3811ed0bf3",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/69",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/69",
+      "bytes": 1271080,
+      "sha256": "f7f181f39d6521bc9ee9bda212497008bda5faafd6c9597c14b2872e366b06ac",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/7",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/7",
+      "bytes": 371432,
+      "sha256": "17441903741516c78e0a2b18dd7f827f11a4565459ee6ec2c9a6f97be6282377",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/70",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/70",
+      "bytes": 1202888,
+      "sha256": "ab32b8889073ef59ff45341715cc6462fa0f9a187188a92af11f8100737e1d68",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/71",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/71",
+      "bytes": 1794408,
+      "sha256": "2470c48b75a95ef6b08fbe5ca252206d8dccdb15d98f5c7897fdc352e7f5fecb",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/72",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/72",
+      "bytes": 1505096,
+      "sha256": "373e368b8f3e79e6be83cce661ca1f749a44c1239190e53361d0f763ec04ce76",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/73",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/73",
+      "bytes": 944008,
+      "sha256": "bd011d264b9bf3efc5c85051cdf45855fdfc56034abf8d365673dbcf9ac52be7",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/74",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/74",
+      "bytes": 258232,
+      "sha256": "7e0ec87ec10368a315bda8c62cd36772669c9434be77dcdc628ea523b89e44e1",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/75",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/75",
+      "bytes": 1098728,
+      "sha256": "b2a2a2708abc434d6289ab4dad89c20629b2339fed39695f24a1cb07f145248c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/76",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/76",
+      "bytes": 1759816,
+      "sha256": "ccc81c99e9d43d39d1781aed11713fb7125d4ee59d4758e7d67d7c6b8043330d",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/8",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/8",
+      "bytes": 349464,
+      "sha256": "5d514d0136a1daa25d09107acacd378b5ff2288b81972671df6dfdde58eb429c",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/9",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/9",
+      "bytes": 351944,
+      "sha256": "a48394affbf4c4a843230d332241f27b9c3871bb94ee8b607d63591ac08b405d",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/Eyelashes_alp.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/Eyelashes_alp.png",
+      "bytes": 68649,
+      "sha256": "8c176feab0a42015476baacdc2ea09df2dd668c5922cf86975b8f0f9d6ca57ed",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/bone_muscle_combie_N.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/bone_muscle_combie_N.jpg",
+      "bytes": 524312,
+      "sha256": "a88ba2615c69f0082b1c0cc36271d26e73296997018508239374fbea9a3f37a6",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/bone_new_d.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/bone_new_d.jpg",
+      "bytes": 560176,
+      "sha256": "82b0b69ee8e7449706d94865452e7707a44b851877656380b46df5f27cd67396",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/muscle_a_new_d.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/muscle_a_new_d.jpg",
+      "bytes": 761568,
+      "sha256": "5b7964b9e0cfe8154758dc1774f27d9c632c993a867a6eabb9c578b757fb0cc3",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/muscle_a_new_n.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/muscle_a_new_n.jpg",
+      "bytes": 481859,
+      "sha256": "8828e2fd337ffc501e4b5ad1ade6c062feb8f18fe92999244467493fc0b93ecc",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/rendai_c_a.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/rendai_c_a.jpg",
+      "bytes": 420198,
+      "sha256": "cfdff4a22b5ca0b81df65d23a72c6a790612750c2b2aeb48b3f570aae7603133",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/rendai_n_a.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/rendai_n_a.jpg",
+      "bytes": 619340,
+      "sha256": "d97b40ebeeff178ca6590c9ca6f8a1326060939e3908c4687dd33a97410e8a67",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/shadow.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/shadow.png",
+      "bytes": 255529,
+      "sha256": "87dfebffd6369f9aa105ebf10c325e775a2036ca621c058f5c32717753d4826b",
+      "status": "cached"
+    },
+    {
+      "path": "static/action/obj.fbm/wufei_combie_gai.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/action/obj.fbm/wufei_combie_gai.jpg",
+      "bytes": 843187,
+      "sha256": "adfacc79b10ead28b8deb302d0e217b7a238c3ab4992ef4bb67c82a0af2507a4",
+      "status": "cached"
+    },
+    {
+      "path": "static/build/gif/gif.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/build/gif/gif.js",
+      "bytes": 25480,
+      "sha256": "3a4a26396e286e71d56f38895ae64193214f5e38b0baba653a8b14a3dad2bd21",
+      "status": "cached"
+    },
+    {
+      "path": "static/build/gif/gif.worker.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/build/gif/gif.worker.js",
+      "bytes": 16636,
+      "sha256": "ca9e3048557ec05d619e18b83403cd3669c88939e5fa2d6034ce7625d445970d",
+      "status": "cached"
+    },
+    {
+      "path": "static/build/three.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/build/three.js",
+      "bytes": 1267616,
+      "sha256": "48e3e8f38208c3c7f3499d1942ea7a7c5e0a7f803688b0275893ecf01d639383",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/1.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/1.json",
+      "bytes": 143,
+      "sha256": "df2a8d5adf7ea8248585e5fa5a4967c219cb08e5ae83c62f4d671d04d62c8aac",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/10.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/10.json",
+      "bytes": 141,
+      "sha256": "77a329f9591da12ce675ce75fa0093f8148071c4bb579312bb5c7e242785631e",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/11.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/11.json",
+      "bytes": 146,
+      "sha256": "fc2b840d57a772d6d428ec2c6dd43065552fc4f12ddf44d60fcd583f97986f06",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/12.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/12.json",
+      "bytes": 143,
+      "sha256": "f1b93d78d86df434e71d228ac273f307c75c3416c09a461542be37b9d6511c8c",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/19.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/19.json",
+      "bytes": 145,
+      "sha256": "f43bab2ac390a53e372e49cdf61a97c1cfb68125e9d7fb4afb0ab828663f8888",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/2.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/2.json",
+      "bytes": 143,
+      "sha256": "bcfa0dc7d97cec677b5bb31aa5950866288388f622260083b98391e0395c781e",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/20.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/20.json",
+      "bytes": 140,
+      "sha256": "96b9619f29b7189d30ef166d7e31214fc5bf00c7244ade9cec188e3f74b2f76e",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/21.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/21.json",
+      "bytes": 140,
+      "sha256": "a70681a60eea2cb74bf09f948d63bebb81b4603eaee98314c5d35fce6261d13b",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/22.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/22.json",
+      "bytes": 144,
+      "sha256": "438f73f6ab4e950b08a506c5081874419b0147a9bd2451043183af193cd58a03",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/23.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/23.json",
+      "bytes": 142,
+      "sha256": "4e529b720e0304dca36f4de437ee7704ce0b55c0389681fa6ad97f697f36fcb8",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/24.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/24.json",
+      "bytes": 143,
+      "sha256": "566a8449c3ee8d5f6b1acd12e4dc1f35b7d42a7417b6501542ac856ec1516358",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/25.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/25.json",
+      "bytes": 143,
+      "sha256": "91276ca2f272e41bd619bb9feacd20508bcf0e6dc85b8b5b91b007bab600fa7b",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/26.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/26.json",
+      "bytes": 145,
+      "sha256": "78f5142be6fcad2e0659bc11c40ea814ab2f94a1d7d5bb4d4957955c049f1056",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/27.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/27.json",
+      "bytes": 143,
+      "sha256": "65c71b12ec465b128ce2e3695694f4f416904119ba2876ea06b21fe9493eb6ad",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/28.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/28.json",
+      "bytes": 146,
+      "sha256": "ff9df6b7657ff94e964a5a2060674aa16c746a38e0c9f93bae631977fd0e3cbc",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/29.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/29.json",
+      "bytes": 143,
+      "sha256": "a0f58fe2c00901b2fe711bc01478c7bec1ed24eeed293233bf50be60546a1f47",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/3.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/3.json",
+      "bytes": 148,
+      "sha256": "2d034744d868d45d5764a3b23b25f0d3edf0bb84dc1b5de2ea34f19b656f833e",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/30.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/30.json",
+      "bytes": 142,
+      "sha256": "83045302bf8240ec84264607d91ab6e984641775d9c1d0f6bff4ebdd1863c3ab",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/31.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/31.json",
+      "bytes": 145,
+      "sha256": "e116d41392224701439ddbc4f6e3ea04dd59533cbb27584617fe4d7e6c904b83",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/32.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/32.json",
+      "bytes": 143,
+      "sha256": "c16e67927bc778346243e696fd820f0eb28927c36ecaa5b8ba12e0cf9f7c0457",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/33.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/33.json",
+      "bytes": 143,
+      "sha256": "936fdb841305d764d4905f5a507a50a763ead0e15467f0deaa7d84b269de218d",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/34.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/34.json",
+      "bytes": 143,
+      "sha256": "d27162b9acabf0159e49ef3a1c8c54a179454c9e4195c38346bb57d77dd52867",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/35.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/35.json",
+      "bytes": 142,
+      "sha256": "877ee8dced1e2f467c089587aa97754a70845ccb7a11c24ffcb38fc11cc837d0",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/36.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/36.json",
+      "bytes": 143,
+      "sha256": "419605fa5f709a0bcd124bec317b448b4fa5c899ef8e69ac94a6172095f754d7",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/37.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/37.json",
+      "bytes": 144,
+      "sha256": "24f585af7926cfddcd0bb71cad72363ee36d8d77340a232a4b8ecbe6fe1cbcfe",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/38.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/38.json",
+      "bytes": 142,
+      "sha256": "0e1f1867d0bd2541feb6831f56b5f52190bc6a48155e16cc9cc737e9ba206a46",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/39.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/39.json",
+      "bytes": 144,
+      "sha256": "699833d8c2108f843353756319e5b81da72db4bc706d6e027c50c9ff5d5bd7e4",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/4.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/4.json",
+      "bytes": 143,
+      "sha256": "d790e587121973708321befd0698fcf9f4d0ac1ca2232a0793b6cd6afb2fcc77",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/40.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/40.json",
+      "bytes": 143,
+      "sha256": "9ddf421c5dbceb784150b1670997879cd6c54c7374c594e9cd68a03ec3c25238",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/41.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/41.json",
+      "bytes": 141,
+      "sha256": "7694b1f324316458cae45fc85fa4500521845036e2363ecbdff8897b1dc707bd",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/42.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/42.json",
+      "bytes": 143,
+      "sha256": "bd403481f0fe9438065ab52e98c930d1c72616709e83f673aa8181c8388a671e",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/43.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/43.json",
+      "bytes": 142,
+      "sha256": "fa60b09a34597f0eff9e8721338c7c5aa0ec8f1cf8d9f1ab2dcc8c10235f9800",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/44.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/44.json",
+      "bytes": 141,
+      "sha256": "4644af5b2060ddbd1e5a3cc68d909433709f0c649251d63eb810aa113b7b1261",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/45.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/45.json",
+      "bytes": 142,
+      "sha256": "929bcc737b927995a015e6f085e787ea41fa15c529dd98ba00cd7c09b26a55b1",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/46.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/46.json",
+      "bytes": 144,
+      "sha256": "61438cc3ff4f706a5ac6a6186b24959006be77f81b587d09fd886aceac1a45b1",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/47.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/47.json",
+      "bytes": 144,
+      "sha256": "c1e31fec94699cf77c3b4c6d7d580855263d41ab9ca342bdaf6dbf89451a44b2",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/48.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/48.json",
+      "bytes": 142,
+      "sha256": "17e2ed235dd3a1e08e192203d112d573b9eef5824e3715c1c568260e839c71d8",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/49.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/49.json",
+      "bytes": 145,
+      "sha256": "29fa9d50a810d076666b215ac746cc0cbfd85cb02466c86427ce3f1779693168",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/5.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/5.json",
+      "bytes": 145,
+      "sha256": "9aa0f08323cb2bf17ec780d0635e519b7fa4ab5ead927823b7448ac20e4d99e3",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/50.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/50.json",
+      "bytes": 144,
+      "sha256": "3e54248f420dacc70218126d1d4a02204c7acf336fc94d70fd70b7c2d5ac7296",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/51.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/51.json",
+      "bytes": 142,
+      "sha256": "a1659b63ea58bea1ca855b9f30b1b7e9cfb3f5071058063a40ef9921e9427496",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/52.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/52.json",
+      "bytes": 143,
+      "sha256": "62b6bba26ace2892242fccf3f792d4c6f38a6dad28f26b20f3fee648bb36ab42",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/53.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/53.json",
+      "bytes": 144,
+      "sha256": "80596c1364e9887353a56ebef8809a61d8a44129da54b568aaf07c32d6c35749",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/54.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/54.json",
+      "bytes": 138,
+      "sha256": "d2a926cc857b784e884ed6e2e65fa7c9915736aee22c29a7f2ce8eb1fe370271",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/55.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/55.json",
+      "bytes": 144,
+      "sha256": "5d21f8fbf706295dd4b81f06cc15938e5d250ce26e33a79eedfb44632fc76bfd",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/56.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/56.json",
+      "bytes": 140,
+      "sha256": "f9188bd961a33fd5028e3f5a6e43d7cd12da3c716f42467e7ec809b48f2bb77f",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/57.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/57.json",
+      "bytes": 144,
+      "sha256": "88ffec7bebcc373298d5d4874b169e60968cd513a97dbd3e1de9c0b4ad2fb8f6",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/58.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/58.json",
+      "bytes": 142,
+      "sha256": "f75f5864ba0747e9a007e1a3c3bedfb54b3d269807b657dd88295cadcee01da5",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/59.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/59.json",
+      "bytes": 142,
+      "sha256": "0ec1f894c61297fdbdeb8c13a910b424ca0698c89311d1a82fa8bca5d063c7b5",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/6.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/6.json",
+      "bytes": 144,
+      "sha256": "c5f1752006058dd1145aa79826b07c6ca6c4ca3f954e530862ba4d1526a3bea2",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/60.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/60.json",
+      "bytes": 143,
+      "sha256": "a18e748d6d3a8209da3ed1a4a49078f9cc472f24907b76775c0076b8e73fa987",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/61.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/61.json",
+      "bytes": 142,
+      "sha256": "df69619c4c5996596365cdeec391eea98d0c30a7500ca8f02a4c64240274e85d",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/62.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/62.json",
+      "bytes": 143,
+      "sha256": "b41b8a01863a0af7d410a6a3fbe404dc58f4c3fa2197c99725fcd10137c3004a",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/63.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/63.json",
+      "bytes": 140,
+      "sha256": "8aecbe65808a0eed0e6d8e41762998330937d7d97978a7018b852ae3d9cc7784",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/64.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/64.json",
+      "bytes": 145,
+      "sha256": "78862aa2ef56066f795d91e57932172887c655c6f7e92ed7aea63502ca920509",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/65.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/65.json",
+      "bytes": 145,
+      "sha256": "3b25678c1f1a75e311acc124ba8ecd1da511ab9873d7843f5613ed760ba18b3d",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/66.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/66.json",
+      "bytes": 142,
+      "sha256": "aa16de4b8c5c43e096f21522a23a25700c2ab5c411598fd5012b60f9c604a171",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/67.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/67.json",
+      "bytes": 143,
+      "sha256": "2e8f81f99a3358957de2780b92398ec0dfb83350de45bac62f65492b5b56921f",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/68.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/68.json",
+      "bytes": 141,
+      "sha256": "7033dbc2849ba8713dd3bf2996914d0282e598b68e2d8c83089928306dc30709",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/69.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/69.json",
+      "bytes": 143,
+      "sha256": "21f8a68bb01c54577d737aa1f5ff1ae2b020009b37e58eab93f0173e26a18281",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/7.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/7.json",
+      "bytes": 145,
+      "sha256": "b720d74518ddd1ac0bc249bdfd766ae963c5f602a36cf1c55c416ff5cc5c37f5",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/70.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/70.json",
+      "bytes": 141,
+      "sha256": "9da8f750a7ebcd0899ae02d0a2c4e7d614138b647842d51b214aa1c9cc46667b",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/71.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/71.json",
+      "bytes": 139,
+      "sha256": "8d9522a0c1c2bbddfac5230c0a80443849082ffb2f6cdd3b3bc0bb1048b87909",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/72.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/72.json",
+      "bytes": 145,
+      "sha256": "ffd4011332dce28f5cc1a2f71a17ead72ab6e2716d2d5a6e0d892c90dbbed504",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/73.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/73.json",
+      "bytes": 140,
+      "sha256": "58ed45a071562c86a2ff7eb734f4c902146726c340138a5f75c1c1e619ec83db",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/74.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/74.json",
+      "bytes": 177,
+      "sha256": "d5b11625a85f2c8713b1ed19435dd7bb8cff33dbefcce8b29306062fcc61e957",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/75.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/75.json",
+      "bytes": 144,
+      "sha256": "f12e266d59a5464fff51946cef5df0bf918eef804a8565abf13e0b7c98f08d7a",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/76.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/76.json",
+      "bytes": 181,
+      "sha256": "39211a5a7005ea900601048a846cdc9aed713210f752bd88f9711c551c1c627a",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/8.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/8.json",
+      "bytes": 147,
+      "sha256": "f8467ac74c38399c44c64a4df1a94c5ff4eb9e15337bfceddcc191f6f00504e3",
+      "status": "cached"
+    },
+    {
+      "path": "static/camera/9.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/camera/9.json",
+      "bytes": 143,
+      "sha256": "059c0c9d50248e78d6762ac125116321f84ea20deaa3976fb01983540152c9bf",
+      "status": "cached"
+    },
+    {
+      "path": "static/css/419.92625563.chunk.css",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/css/419.92625563.chunk.css",
+      "bytes": 89826,
+      "sha256": "3182c7eb3f45f7ba104bc087ccefc617fd8d94f250e0c605ad963a67bb4c9ff1",
+      "status": "cached"
+    },
+    {
+      "path": "static/css/main.7360b8fd.css",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/css/main.7360b8fd.css",
+      "bytes": 20836,
+      "sha256": "8f3b0d5cbc4ed0554367536e77c6c769de5d513d4ded7db0ddb6bfa07ff6335a",
+      "status": "cached"
+    },
+    {
+      "path": "static/data/processed_data.json",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/data/processed_data.json",
+      "bytes": 179326,
+      "sha256": "caa0c5bffa2c5ca837048c4f2114b199ebae94d10b46bb53a45b227366b6a49d",
+      "status": "cached"
+    },
+    {
+      "path": "static/gltf/draco/draco_decoder.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/gltf/draco/draco_decoder.js",
+      "bytes": 754421,
+      "sha256": "11798da0910b6fa2de7b85c48ff8512debf5e766b6bf29b6f66adcec94d04d1b",
+      "status": "cached"
+    },
+    {
+      "path": "static/gltf/draco/draco_decoder.wasm",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/gltf/draco/draco_decoder.wasm",
+      "bytes": 281481,
+      "sha256": "92322d1cabaa55c8e216c983e58670043b063af59d86a7b6ae8201452ff7987f",
+      "status": "cached"
+    },
+    {
+      "path": "static/gltf/draco/draco_wasm_wrapper.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/gltf/draco/draco_wasm_wrapper.js",
+      "bytes": 53604,
+      "sha256": "172082724384a06e30a97760835a1723f14ac31b6b5cecb4a5ac82b1deae121a",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/1.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/1.png",
+      "bytes": 27843,
+      "sha256": "232001cbb07e4876ce3317189b51a954d93d49d760007ee82185bd5f94f612fd",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/10.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/10.png",
+      "bytes": 27864,
+      "sha256": "e78af96a43a86303c1a6d10722440a74450a720b5b5b5ad3d81a207cb895fbe4",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/11.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/11.png",
+      "bytes": 44294,
+      "sha256": "d3369005ef7c0137c001f9f7c341797ffe6308ea70388333d414d6cb24305f18",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/12.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/12.png",
+      "bytes": 27834,
+      "sha256": "8fe27c70540bab4077cdfe5b464bd1ac31d90b3dda25f74e22f368f7ad70fcd3",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/19.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/19.png",
+      "bytes": 28245,
+      "sha256": "3b6a9047821053ce365278f295285eabba4c848718ada635845dd91a0d35fd41",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/2.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/2.png",
+      "bytes": 21945,
+      "sha256": "543c2e35ecb9bb835b56590b1e4a6b52048fe1bd2dc9cad7ace60981a6376e6b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/20.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/20.png",
+      "bytes": 28450,
+      "sha256": "1e5d0ab9eeb4e571877dd94a5cf5ceeff785f2b91dff85024869ac8796fc4ac9",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/21.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/21.png",
+      "bytes": 28512,
+      "sha256": "f6bf6ff72091761a99d0c606621be41b35eebb96dd9708edf79a87c20b1450a0",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/22.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/22.png",
+      "bytes": 54124,
+      "sha256": "025643d48c8326f7f7c70e3e27fcd5b8f91e18ca359b36e62c1e4a55409f7c24",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/23.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/23.png",
+      "bytes": 27601,
+      "sha256": "0503cfbfda24e42301c7a2968bf5ccd628fd4432c8267ca77aeb775520b4d58d",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/24.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/24.png",
+      "bytes": 29886,
+      "sha256": "2ba80765b2148e31c5d1901247f070414570ff521d8e4938bb520443b2d1e8d1",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/25.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/25.png",
+      "bytes": 26412,
+      "sha256": "72cf5e6635318bd56185357b073127602318c6ea8dfd2ae3e31dc7fd28b66553",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/26.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/26.png",
+      "bytes": 26412,
+      "sha256": "72cf5e6635318bd56185357b073127602318c6ea8dfd2ae3e31dc7fd28b66553",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/27.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/27.png",
+      "bytes": 29940,
+      "sha256": "2dc9b2797c7a19f923535471766fa54f870d360c5def49c4aac3881648373236",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/28.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/28.png",
+      "bytes": 54885,
+      "sha256": "694b348287acfb7521a3504dc4de637060fb3a723813ede926fc3b5ab314c203",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/29.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/29.png",
+      "bytes": 54885,
+      "sha256": "694b348287acfb7521a3504dc4de637060fb3a723813ede926fc3b5ab314c203",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/3.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/3.png",
+      "bytes": 29502,
+      "sha256": "768267dd89a2d9763475e562f55a14f4bc6d0c68498400be3faf1eeb6332d15e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/30.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/30.png",
+      "bytes": 43114,
+      "sha256": "a84de300c0fd164dbe187f49082151063dd0d0fbde2c93e62916e826349896e9",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/31.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/31.png",
+      "bytes": 29612,
+      "sha256": "ad3ab4bb360b98fa6dd0cbd28f66dbea5add5c30b7847f78402529b00b1adc4d",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/32.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/32.png",
+      "bytes": 33873,
+      "sha256": "7f0a3deb8f8c9dd67828aa1da018631e28070d88cba9a1a9c2ac54cb0649a453",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/33.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/33.png",
+      "bytes": 29592,
+      "sha256": "973eb056f5cd863529e83eae435a9e106052fa65578b1fd410c66b247ac18b48",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/34.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/34.png",
+      "bytes": 36388,
+      "sha256": "c2cca68e01a9ec084beb2c4bcd642183529efdc21341eda5029acd30e98be0bb",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/35.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/35.png",
+      "bytes": 36388,
+      "sha256": "c2cca68e01a9ec084beb2c4bcd642183529efdc21341eda5029acd30e98be0bb",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/36.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/36.png",
+      "bytes": 18346,
+      "sha256": "f40692343f1b2701409ed743ab5ff8901226625a82fa7c0d3dfec1bb3ae58a0e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/37.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/37.png",
+      "bytes": 18346,
+      "sha256": "f40692343f1b2701409ed743ab5ff8901226625a82fa7c0d3dfec1bb3ae58a0e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/38.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/38.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/39.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/39.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/4.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/4.png",
+      "bytes": 27104,
+      "sha256": "767883cb4602f99c02711571819feb8ae6878ea107546e6faa2bb200cd852b77",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/40.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/40.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/41.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/41.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/42.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/42.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/43.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/43.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/44.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/44.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/45.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/45.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/46.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/46.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/47.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/47.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/48.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/48.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/49.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/49.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/5.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/5.png",
+      "bytes": 39287,
+      "sha256": "1e82e544316ee6487e0e870451a8fef825a6f1cf26b78492a247b36d4c1ace0f",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/50.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/50.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/51.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/51.png",
+      "bytes": 43771,
+      "sha256": "a9ba1ebe05473912edee72f7e03d1d8a7b677657f8b8c7c7f6f6bda84a44658b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/52.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/52.png",
+      "bytes": 28802,
+      "sha256": "8e7bf70a11f00c06033601565cc3266918eed5eb9f45aa79828a43e232232713",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/53.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/53.png",
+      "bytes": 28802,
+      "sha256": "8e7bf70a11f00c06033601565cc3266918eed5eb9f45aa79828a43e232232713",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/54.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/54.png",
+      "bytes": 43771,
+      "sha256": "a9ba1ebe05473912edee72f7e03d1d8a7b677657f8b8c7c7f6f6bda84a44658b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/55.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/55.png",
+      "bytes": 28802,
+      "sha256": "8e7bf70a11f00c06033601565cc3266918eed5eb9f45aa79828a43e232232713",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/56.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/56.png",
+      "bytes": 28802,
+      "sha256": "8e7bf70a11f00c06033601565cc3266918eed5eb9f45aa79828a43e232232713",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/57.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/57.png",
+      "bytes": 6103,
+      "sha256": "09b490cd81623afb7d6bfba2067ab25d32f7828f9ea1505c4483a5d40664ee9e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/58.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/58.png",
+      "bytes": 6103,
+      "sha256": "09b490cd81623afb7d6bfba2067ab25d32f7828f9ea1505c4483a5d40664ee9e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/59.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/59.png",
+      "bytes": 6103,
+      "sha256": "09b490cd81623afb7d6bfba2067ab25d32f7828f9ea1505c4483a5d40664ee9e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/6.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/6.png",
+      "bytes": 39240,
+      "sha256": "3eed2bd73a72de1f7217ad285bf8629e30d1a7cbc23b0469ec3cf8e6d6e30211",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/60.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/60.png",
+      "bytes": 6103,
+      "sha256": "09b490cd81623afb7d6bfba2067ab25d32f7828f9ea1505c4483a5d40664ee9e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/61.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/61.png",
+      "bytes": 7038,
+      "sha256": "ae9ac15d2e88b96bc55e1d7c1f9c4066bbd4b83ac2ef41d3464cd66b2a4a9d89",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/62.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/62.png",
+      "bytes": 6103,
+      "sha256": "09b490cd81623afb7d6bfba2067ab25d32f7828f9ea1505c4483a5d40664ee9e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/63.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/63.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/64.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/64.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/65.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/65.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/66.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/66.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/67.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/67.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/68.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/68.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/69.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/69.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/7.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/7.png",
+      "bytes": 27753,
+      "sha256": "5dbb5144059b809e16aae5d452edd14147977bbe0b6f335bf7047fdf3ff914a1",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/70.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/70.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/71.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/71.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/72.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/72.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/73.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/73.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/74.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/74.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/75.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/75.png",
+      "bytes": 43831,
+      "sha256": "dd72e73debfff63197e8c68e97e6c94c4ba0a52ebfa5e34bfef66c0e11ac2cea",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/76.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/76.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/8.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/8.png",
+      "bytes": 27701,
+      "sha256": "9e9ab7acc5f30cd82263efb944a2193c5e96963977472a2b09211a51001ccbf9",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/gugeAlphaMap/9.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/gugeAlphaMap/9.png",
+      "bytes": 27781,
+      "sha256": "9f0be085ad3a95868ee9502a9d1ec3c967a8864a4d5e73b94f8bd24046fb4d55",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/1.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/1.png",
+      "bytes": 10101,
+      "sha256": "f193e425a768d1f8ee12fdfc1e52d357d9cbea2ef0a594a3dfaa086f673ac25e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/10.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/10.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/11.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/11.png",
+      "bytes": 12557,
+      "sha256": "8010943065df19b5450ae11eb97b978c567896dfaf9213dbe5024b91b430a4ab",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/12.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/12.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/19.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/19.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/2.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/2.png",
+      "bytes": 13249,
+      "sha256": "4db6e1a3be4d12ed3b8701414208f2835ba476339dab64c2b85adc115db4aded",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/20.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/20.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/21.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/21.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/22.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/22.png",
+      "bytes": 15998,
+      "sha256": "42cb1261da8eff078a60b1a3dc596a0323531b1a2f7b1f825578a8589b3a0b2a",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/23.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/23.png",
+      "bytes": 20334,
+      "sha256": "a474addb27c54689eac457f8f2e479aa0c261ade6176bfcbdfb4e9a6c34cb2ca",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/24.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/24.png",
+      "bytes": 23694,
+      "sha256": "6ae3d6fab463d40dc6d07c483517536f298e0b4224f28db47789ffb6d9b685f5",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/25.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/25.png",
+      "bytes": 20846,
+      "sha256": "b6617126605346b3225608e4d13437ac63244ccff3fffa7065e313b12ba930cb",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/26.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/26.png",
+      "bytes": 20846,
+      "sha256": "b6617126605346b3225608e4d13437ac63244ccff3fffa7065e313b12ba930cb",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/27.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/27.png",
+      "bytes": 18083,
+      "sha256": "615dd93af521f9d4ab34308682d6421fca14277058f84e8cd27b5a5eaac6dcd9",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/28.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/28.png",
+      "bytes": 16917,
+      "sha256": "3d7338e5684aa85f881277a7947105d28d2b2e99d8d31611a7b43f434085d746",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/29.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/29.png",
+      "bytes": 16917,
+      "sha256": "3d7338e5684aa85f881277a7947105d28d2b2e99d8d31611a7b43f434085d746",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/3.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/3.png",
+      "bytes": 22174,
+      "sha256": "84a805d0c76ca7e4766ff94f7200bfbf9c1d153993b2416b23dbd2ba43ee5c03",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/30.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/30.png",
+      "bytes": 15383,
+      "sha256": "3303013a2275e2c5268d110df5dcfcafe0592c7e786e0a2570164f63b782d0e7",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/31.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/31.png",
+      "bytes": 22499,
+      "sha256": "7aa0e733846876bd4be9a4ebfb3681abb5fcbe02999777bcfe2b4ffbc723d6af",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/32.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/32.png",
+      "bytes": 21585,
+      "sha256": "db569a40de76cc127347205a7124a0d0edf3f49c74232e8c055542724e892178",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/33.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/33.png",
+      "bytes": 15376,
+      "sha256": "55f1e5f6b4546987308d0a6021b4e2fb3acaad5ef13089ffa998015d2540d899",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/34.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/34.png",
+      "bytes": 23086,
+      "sha256": "1b990ca8893e1b4e9b21dfe281d1d68fb9ae7d51f9dd8b93e0cdfbb76a356bf7",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/35.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/35.png",
+      "bytes": 23086,
+      "sha256": "1b990ca8893e1b4e9b21dfe281d1d68fb9ae7d51f9dd8b93e0cdfbb76a356bf7",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/36.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/36.png",
+      "bytes": 20105,
+      "sha256": "821fc9b599eb0a5eb860ba620a06d9438ce719b311a6785fed1d987fd0674d5d",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/37.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/37.png",
+      "bytes": 20105,
+      "sha256": "821fc9b599eb0a5eb860ba620a06d9438ce719b311a6785fed1d987fd0674d5d",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/38.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/38.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/39.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/39.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/4.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/4.png",
+      "bytes": 21523,
+      "sha256": "21f3e9d6dcd33904422f82aba8b136c6b039f2a6e6d8fa9b462e8fab5768fd2e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/40.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/40.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/41.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/41.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/42.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/42.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/43.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/43.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/44.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/44.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/45.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/45.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/46.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/46.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/47.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/47.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/48.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/48.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/49.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/49.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/5.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/5.png",
+      "bytes": 19997,
+      "sha256": "77a28d2f2f951ae12d817abe35674888dd98f37d467274c32e8d053c96b5968c",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/50.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/50.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/51.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/51.png",
+      "bytes": 15501,
+      "sha256": "6c516c15bd3c61a673c0c743bc367a5a9413c27c0509d9e74f82c9a5542a801c",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/52.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/52.png",
+      "bytes": 22268,
+      "sha256": "050f22af5edf3463c5f70eab0bd21546b98b3549659ff6601019db79a09b0378",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/53.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/53.png",
+      "bytes": 22268,
+      "sha256": "050f22af5edf3463c5f70eab0bd21546b98b3549659ff6601019db79a09b0378",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/54.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/54.png",
+      "bytes": 15501,
+      "sha256": "6c516c15bd3c61a673c0c743bc367a5a9413c27c0509d9e74f82c9a5542a801c",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/55.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/55.png",
+      "bytes": 22268,
+      "sha256": "050f22af5edf3463c5f70eab0bd21546b98b3549659ff6601019db79a09b0378",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/56.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/56.png",
+      "bytes": 22268,
+      "sha256": "050f22af5edf3463c5f70eab0bd21546b98b3549659ff6601019db79a09b0378",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/57.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/57.png",
+      "bytes": 7205,
+      "sha256": "87088b8b7079acbb892d40018c94178215326a9d001f9ee649dfdbfd77214139",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/58.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/58.png",
+      "bytes": 7205,
+      "sha256": "87088b8b7079acbb892d40018c94178215326a9d001f9ee649dfdbfd77214139",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/59.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/59.png",
+      "bytes": 7205,
+      "sha256": "87088b8b7079acbb892d40018c94178215326a9d001f9ee649dfdbfd77214139",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/6.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/6.png",
+      "bytes": 19997,
+      "sha256": "77a28d2f2f951ae12d817abe35674888dd98f37d467274c32e8d053c96b5968c",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/60.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/60.png",
+      "bytes": 7205,
+      "sha256": "87088b8b7079acbb892d40018c94178215326a9d001f9ee649dfdbfd77214139",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/61.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/61.png",
+      "bytes": 7098,
+      "sha256": "5b55779dd28a6204ede5fdb6bf3b0e21ae1c1475fc00316a9d2d167cdd28035b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/62.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/62.png",
+      "bytes": 7205,
+      "sha256": "87088b8b7079acbb892d40018c94178215326a9d001f9ee649dfdbfd77214139",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/63.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/63.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/64.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/64.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/65.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/65.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/66.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/66.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/67.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/67.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/68.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/68.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/69.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/69.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/7.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/7.png",
+      "bytes": 11018,
+      "sha256": "151ea311a58372021bf6f7dfc1abfc410a699fb4da6ffcbe613443252420f5ba",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/70.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/70.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/71.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/71.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/72.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/72.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/73.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/73.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/74.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/74.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/75.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/75.png",
+      "bytes": 20543,
+      "sha256": "6fc3aaac2d9c9ab86d4dcd58636052349121d274813e6e0675ba3eb6622cf53e",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/76.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/76.png",
+      "bytes": 70,
+      "sha256": "36228361636a83b765cc000905609a0b118f1fa4ca362e2a271c156f332a864c",
+      "status": "placeholder"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/8.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/8.png",
+      "bytes": 11018,
+      "sha256": "151ea311a58372021bf6f7dfc1abfc410a699fb4da6ffcbe613443252420f5ba",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/pifuAlphaMap/9.png",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/pifuAlphaMap/9.png",
+      "bytes": 9968,
+      "sha256": "61e45484e3c5ac1f46d999da1062cb5bd63d955c774887a140f32dec60cdd82b",
+      "status": "cached"
+    },
+    {
+      "path": "static/img/qixieColor.jpg",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/img/qixieColor.jpg",
+      "bytes": 1114,
+      "sha256": "77827c40bf692063750bde41cf190988a2ef81595ba2cfe322cddddf9aa6b638",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/419.9597abcf.chunk.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/419.9597abcf.chunk.js",
+      "bytes": 58661,
+      "sha256": "e055aa45aca02fb1600839790b242c45d20d6e3d6ccf8cf76bcadc21482c937c",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/459.9ec4c921.chunk.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/459.9ec4c921.chunk.js",
+      "bytes": 2388916,
+      "sha256": "436cb87c3272e7f76a9317a1a41888486a593d88102a563312384aed6f64e374",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/584.b2e78ce6.chunk.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/584.b2e78ce6.chunk.js",
+      "bytes": 114259,
+      "sha256": "6709202605449b5eefc50801326def74d4a30f85969a2e378d8a3af06e69c192",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/671.8298a32f.chunk.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/671.8298a32f.chunk.js",
+      "bytes": 222000,
+      "sha256": "f604deab0d448741eadfcb7d2ea04153f3bfbc2cf4996ac2128de699fe8525b9",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/716.1a7d3c1c.chunk.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/716.1a7d3c1c.chunk.js",
+      "bytes": 139844,
+      "sha256": "76ac939c39738c1f6588db815cefffd25e23824fe5e0fee6426ad0b46bea28e3",
+      "status": "cached"
+    },
+    {
+      "path": "static/js/main.2ac68e6d.js",
+      "url": "https://musclemee.3dbody.com/foundation_action_new/static/js/main.2ac68e6d.js",
+      "bytes": 606581,
+      "sha256": "5f3090c1191d81a7602372b12c8e739167c94c43741db8569a137ed23d3a3468",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/1.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/1.jpg",
+      "bytes": 4280,
+      "sha256": "69a8822b566e68c1a9ff090d4e0e619c2cddd9998f04bb4de43d7a509a160c28",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/10.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/10.jpg",
+      "bytes": 3448,
+      "sha256": "eb4321bdd90faad7130e3ab9152f966f33384638128b9bcc77280bcf7e7998fb",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/11.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/11.jpg",
+      "bytes": 3665,
+      "sha256": "32845b705a0a3e8f326a0c64227762a1572eccfa7ba0f47aa2ebb7d27d6d53e1",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/12.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/12.jpg",
+      "bytes": 3477,
+      "sha256": "a2c6a4e81f43bd6e06207967ee4591ae25f950b47f144db828e87a6d59253a57",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/19.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/19.jpg",
+      "bytes": 3278,
+      "sha256": "fcc2c13fd74172f211ac6dba11d7969d3c4c51e539ef9e576b73989277bcb786",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/2.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/2.jpg",
+      "bytes": 4952,
+      "sha256": "3c2725d336819cab3ad91d242256988013b0ce87bf6a6c1c9c06e64bbee9ae2d",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/20.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/20.jpg",
+      "bytes": 3611,
+      "sha256": "d35654f03d22f550f8a4a28500c513f52d06448bb3c30cb428c696ce295f77c1",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/21.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/21.jpg",
+      "bytes": 3670,
+      "sha256": "b4c22629ab3e6d39e2b76b031231a8b2ea28700553959bcd0a582d19df773d4a",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/22.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/22.jpg",
+      "bytes": 3708,
+      "sha256": "6a10bcb37824cae532b603720b1959a3acffe48643bc87980b5c028cf27bb11b",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/23.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/23.jpg",
+      "bytes": 4734,
+      "sha256": "083b0f22dee82c173e7a8cc7f86ffae052c56c431b745307f985bfb0c3516d77",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/24.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/24.jpg",
+      "bytes": 4130,
+      "sha256": "962954532e1db1363b745f1f3055df8ec5ca3e5156ae4dcfc965f05bf90130cf",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/25.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/25.jpg",
+      "bytes": 4415,
+      "sha256": "ab6ea22f5fd388d615929914c48f9bd9c9e2c7aa89b4ff6949a6210256c489e1",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/26.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/26.jpg",
+      "bytes": 4938,
+      "sha256": "5913ba547682e33cff0f9c3992ef57fba9408e7288e473b4dfc2cf897b9abe20",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/27.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/27.jpg",
+      "bytes": 5448,
+      "sha256": "c6ac7b41565a8866e94bb0f5644747a5c190da548c1bcaf8c03ed8361679244a",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/28.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/28.jpg",
+      "bytes": 4167,
+      "sha256": "b688c13431f436e57eb7d935404ad060fc32b5ff42798334905f50107b7e3f0f",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/29.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/29.jpg",
+      "bytes": 5405,
+      "sha256": "4ca144e2eed014c88459de399220443275e4e5d9135ca20653f03e508aad7104",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/3.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/3.jpg",
+      "bytes": 5651,
+      "sha256": "7222c7171f49c796c63cc406647d4fc4db4a1456e18c8d706e2c81d6def86d1a",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/30.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/30.jpg",
+      "bytes": 3522,
+      "sha256": "17accab6121a5db2cd35a5d4750a5ef238ce5252a41913ce1f8c164699a10e9e",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/31.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/31.jpg",
+      "bytes": 3923,
+      "sha256": "b905010803de165674410440e54d3e31325c3688467e2b65e5ed0e36ed5f991b",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/32.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/32.jpg",
+      "bytes": 3632,
+      "sha256": "b7a37a2e28f75c8cd45d9c5924abc6ac53d18017d722e4617d21a5a7b6552797",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/33.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/33.jpg",
+      "bytes": 3242,
+      "sha256": "57a1ca202c2558bcbe7d98679d850f5b5fe377ef7ddb7115211574903d11280a",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/34.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/34.jpg",
+      "bytes": 3925,
+      "sha256": "2d7e78d6e6bf3b8cd9f191d3db64521147a20746aa835e3cd786e7b62ea64e31",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/35.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/35.jpg",
+      "bytes": 3915,
+      "sha256": "c1e598076575e6b989680866d14d69fe160a02588d1f8fc6d77db1cbdc326d39",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/36.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/36.jpg",
+      "bytes": 2532,
+      "sha256": "d1ae78e0e6854b573cc09249dc5c0984bfe82e762e0cd6446ab5bedf1ac4ea91",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/37.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/37.jpg",
+      "bytes": 2573,
+      "sha256": "1eb0940cfed1030a87f4db5cce2266ad475a4a9c956df11f95cfefddbb5eb3ef",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/38.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/38.jpg",
+      "bytes": 2750,
+      "sha256": "c940abb86f274ac39ae3fda966918700a903e390d133fe053de4fb01111fdac3",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/39.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/39.jpg",
+      "bytes": 2550,
+      "sha256": "c8356693970f3a315850f8d8a77281ad71f3e48bfa824a7c3d619eea66cb830d",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/4.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/4.jpg",
+      "bytes": 6027,
+      "sha256": "c8455b746baaf23dab4135104975918429711ec32200950091202ba51b3143f2",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/40.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/40.jpg",
+      "bytes": 2627,
+      "sha256": "5800354753776c7ed34f10ed3b8d2c3104f701964e3b8a73f795f686ecfdaac8",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/41.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/41.jpg",
+      "bytes": 2291,
+      "sha256": "a024bc47bb33f3615df35f52e41e52d239228ae49c1e08fda4979d65216792d8",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/42.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/42.jpg",
+      "bytes": 3026,
+      "sha256": "7c213e1f9f7c12bee8282e6554a050a5f7964ff46a58bb5a24ae205f3e35541f",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/43.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/43.jpg",
+      "bytes": 2385,
+      "sha256": "905f9a9439df008df5bca25bc8796634401db32e10ca13c81c65a6f7bf579288",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/44.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/44.jpg",
+      "bytes": 2850,
+      "sha256": "3b38658e2b1529340405f64f390ca938ffe4388cbdb8683b847479b8e953e51f",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/45.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/45.jpg",
+      "bytes": 2469,
+      "sha256": "2d3ee83d0ef4cb63646744cdad97f74fdca7974f7e0a5f6fb8adc96d3f9a2f57",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/46.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/46.jpg",
+      "bytes": 2979,
+      "sha256": "8637da40c3e4f08160cc82f98bc1e461a13c0ec569f7953dd24ac5b49fbe374b",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/47.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/47.jpg",
+      "bytes": 2977,
+      "sha256": "6abe7a2f987425cb74c1704f5cec3f6b64cc6ddf44d0d9c7de53c1b1050b3b9e",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/48.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/48.jpg",
+      "bytes": 2778,
+      "sha256": "70f5e5454a24778655a5ff6e21d25bbfb8a4e0e3e9fa2e87bbcdb61291e0db18",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/49.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/49.jpg",
+      "bytes": 3141,
+      "sha256": "eb21ccb1acc39ba4da545383a9510857634bf6d5b37b0766099b85dace04eefa",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/5.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/5.jpg",
+      "bytes": 5749,
+      "sha256": "fc5279f9a142c2b3177a7f4b56c72e012d6290b217c85367d908aca5c21bf866",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/50.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/50.jpg",
+      "bytes": 2657,
+      "sha256": "953ffa08507909c1f1dd144a73b4b9afa40dced98f1d83e81259ea4783fbbe98",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/51.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/51.jpg",
+      "bytes": 3234,
+      "sha256": "55ad4f15f69c79302e3816aff0f650142ba2afe2690a58a0b2d7a8f5e78dca92",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/52.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/52.jpg",
+      "bytes": 2869,
+      "sha256": "57aaa027c8fc86c66c019512507a56e81bd7c7062149b1efc5f86a3f126dcd42",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/53.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/53.jpg",
+      "bytes": 3269,
+      "sha256": "8be94afa389e854be89d29b798a94949d74e2b54161ab565a23c7487fff4b765",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/54.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/54.jpg",
+      "bytes": 3173,
+      "sha256": "e8307ae732db8367f15f727d5417a3f580e5170fd390c4604066cccb9266005e",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/55.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/55.jpg",
+      "bytes": 2904,
+      "sha256": "7ec940879b42e7ef68c9be73033eeef1bc307a0dbc4c0f6c63191ab543e1836c",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/56.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/56.jpg",
+      "bytes": 2947,
+      "sha256": "bf274a018746b522dcbc3b8ba7be59d57c14ada4b06152e71b5db0aac8682bc5",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/57.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/57.jpg",
+      "bytes": 2871,
+      "sha256": "df8f5a74bd17f077237e8a4c977e9f0bd4776bee933bb6ebe5871c12ac32f801",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/58.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/58.jpg",
+      "bytes": 3335,
+      "sha256": "8f4db03f3274e181d21a4e70dd4090e9eb0475da122006b916ca1ab2f747801c",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/59.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/59.jpg",
+      "bytes": 3035,
+      "sha256": "53323cc519a17c8908612ee2cb120223cfec0f339c193a92855d26091a13abd1",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/6.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/6.jpg",
+      "bytes": 4578,
+      "sha256": "6b1c91d0a3e15a4cb47fe6b6e02ba92dd7daf6ce84df78c71356482b7b02970b",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/60.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/60.jpg",
+      "bytes": 3334,
+      "sha256": "516faf38136860b7f798fd8d01766e684f3c3258f61ae342823a93dba583ea74",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/61.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/61.jpg",
+      "bytes": 3642,
+      "sha256": "2860cafa0e358f7f9a15d0019af2fad7f4fb95fabde2baec6be2f1e83208c4f0",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/62.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/62.jpg",
+      "bytes": 3808,
+      "sha256": "0b6b11152e89a7aa8f3cc053110fa988119db2e765caea8a72b6c47d0ba5d532",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/63.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/63.jpg",
+      "bytes": 3163,
+      "sha256": "fd7ce2b74a6efcd24bae6f32c14d3d23cbe6454694ce146f0f11ba92f176f43c",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/64.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/64.jpg",
+      "bytes": 5135,
+      "sha256": "87db034e8ad045606a99ef1b32c0ac74c1c1e00dae54c09253e7c342baba95c8",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/65.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/65.jpg",
+      "bytes": 3614,
+      "sha256": "515e975deceee3d33e1a0e41d2c03da66cd598d79b5202684e9bda5cd2443036",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/66.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/66.jpg",
+      "bytes": 3587,
+      "sha256": "18c4b0669d553b3ada155e902f15e3d4186c99ddeb7b61553ec1eaecd7fa63bd",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/67.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/67.jpg",
+      "bytes": 3831,
+      "sha256": "0a3b302208c6434f37b1c636ac44480edf27a01c0891af966c01f45abc8affe5",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/68.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/68.jpg",
+      "bytes": 3344,
+      "sha256": "bb0aab19d90faa5b931d62c426604e9590ae398ea2e449e5ccddbeac82fd4ab6",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/69.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/69.jpg",
+      "bytes": 5206,
+      "sha256": "ae128174bf4c16e2d50d17a96e3905c68075130d298e37c84a336ae242abcf6e",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/7.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/7.jpg",
+      "bytes": 3277,
+      "sha256": "1fc83299f696cdfdd8466bc63fbaf18cfc4fe1ce3533f076ef107cb27e57315d",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/70.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/70.jpg",
+      "bytes": 3569,
+      "sha256": "591a5ec4abb2f3fe6eb12c5c6a9ed459cf9fe12b183dea1f9d4f7e3ae070730d",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/71.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/71.jpg",
+      "bytes": 2652,
+      "sha256": "5aa9743a10fd224707ad9e37b0c7646221ad3900208eaab81ec081dfe11755ee",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/72.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/72.jpg",
+      "bytes": 2480,
+      "sha256": "81858b02105f58751d66597445e6de06bcd78b82898125fd896e6e1b0a4cb858",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/73.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/73.jpg",
+      "bytes": 3729,
+      "sha256": "08cad309557b022f20c7463a91095d18516ce3b1f86f72099560ba845a7feead",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/74.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/74.jpg",
+      "bytes": 2867,
+      "sha256": "25555efe1cc06d44cd518709725e8a24fc1cd2bad6e2cbdc2a7ac93dd75d8568",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/75.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/75.jpg",
+      "bytes": 3099,
+      "sha256": "08d7807a7987c696c76c24ceb1e06cbcd2b312c67583e6f012c868904f6f0bf9",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/76.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/76.jpg",
+      "bytes": 264054,
+      "sha256": "6c357d40d047bdc167fe9dd5e3df230e025c46e4f1f6936572ec2ca7231c86bb",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/8.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/8.jpg",
+      "bytes": 3545,
+      "sha256": "bff6c618a7bc889581d9a9870f69e62eb97ad1dad7b79d98cbd7c6f0909f1038",
+      "status": "cached"
+    },
+    {
+      "path": "thumbnails/9.jpg",
+      "url": "https://www.3dbody.com/h/foundation_action/static/ava/jpg/9.jpg",
+      "bytes": 3993,
+      "sha256": "515280fcf827e549e3cf01af3f4fe91fa06a4ff7afcc2271e58e1d0aed56102a",
+      "status": "cached"
+    }
+  ],
+  "totalBytes": 70408176
+}

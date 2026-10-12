@@ -1,0 +1,4912 @@
+[
+  {
+    "id": 1,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Extention/flextion of the head on the neck",
+    "nameCN": "头部在颈部伸展/屈曲",
+    "actionGenre": 0,
+    "isFree": true,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rectus_capitis_posterior_minor_R;Rectus_capitis_posterior_major_R;Obliquus_capitis_superior_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Rectus_capitis_lateralis_R;Rectus_capitis_anterior_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rectus_capitis_posterior_minor_R;Rectus_capitis_posterior_major_R;Obliquus_capitis_superior_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Rectus_capitis_lateralis_R;Rectus_capitis_anterior_R"
+          }
+        ]
+      },
+      {
+        "clip": "63,87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rectus_capitis_posterior_minor_R;Rectus_capitis_posterior_major_R;Obliquus_capitis_superior_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Rectus_capitis_lateralis_R;Rectus_capitis_anterior_R"
+          }
+        ]
+      },
+      {
+        "clip": "87,126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rectus_capitis_posterior_minor_R;Rectus_capitis_posterior_major_R;Obliquus_capitis_superior_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Rectus_capitis_lateralis_R;Rectus_capitis_anterior_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Extention/flextion of the head and cervical spine",
+    "nameCN": "头部和颈椎的伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Semispinalis_capitis_medial_fascicle__R;Levator_scapulae_R;Iliocostalis_cervicis_R;Semispinalis_thoracis_R;Iliocostalis_thoracis_R;Longissimus_cervicis_R;Interspinales_cervicis_R;Semispinalis_cervicis_R;Trapezius_R;M_Iliocostalis_lumborum_R;Splenius_capitis_R;Longissimus_capitis_R;Splenius_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;M_Longissimus_thoracis_R;M_Interspinales_lumborum_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Platysma_R;Scalenus_anterior_R;Scalenus_medius_R;Longus_capitis_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R"
+          }
+        ]
+      },
+      {
+        "clip": "24,63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Semispinalis_capitis_medial_fascicle__R;Levator_scapulae_R;Iliocostalis_cervicis_R;Semispinalis_thoracis_R;Iliocostalis_thoracis_R;Longissimus_cervicis_R;Interspinales_cervicis_R;Semispinalis_cervicis_R;Trapezius_R;M_Iliocostalis_lumborum_R;Splenius_capitis_R;Longissimus_capitis_R;Splenius_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;M_Longissimus_thoracis_R;M_Interspinales_lumborum_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Platysma_R;Scalenus_anterior_R;Scalenus_medius_R;Longus_capitis_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R"
+          }
+        ]
+      },
+      {
+        "clip": "63,87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Semispinalis_capitis_medial_fascicle__R;Levator_scapulae_R;Iliocostalis_cervicis_R;Semispinalis_thoracis_R;Iliocostalis_thoracis_R;Longissimus_cervicis_R;Interspinales_cervicis_R;Semispinalis_cervicis_R;Trapezius_R;M_Iliocostalis_lumborum_R;Splenius_capitis_R;Longissimus_capitis_R;Splenius_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;M_Longissimus_thoracis_R;M_Interspinales_lumborum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Platysma_R;Scalenus_anterior_R;Scalenus_medius_R;Longus_capitis_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R"
+          }
+        ]
+      },
+      {
+        "clip": "87,126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Semispinalis_capitis_medial_fascicle__R;Levator_scapulae_R;Iliocostalis_cervicis_R;Semispinalis_thoracis_R;Iliocostalis_thoracis_R;Longissimus_cervicis_R;Interspinales_cervicis_R;Semispinalis_cervicis_R;Trapezius_R;M_Iliocostalis_lumborum_R;Splenius_capitis_R;Longissimus_capitis_R;Splenius_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;M_Longissimus_thoracis_R;M_Interspinales_lumborum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Platysma_R;Scalenus_anterior_R;Scalenus_medius_R;Longus_capitis_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Contralateral rotation of the head and cervical spine",
+    "nameCN": "头部和颈椎向左旋转",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "1,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Scalenus_medius_R;Scalenus_anterior_R;Rectus_capitis_anterior_L;Longissimus_cervicis_L;Rectus_capitis_posterior_major_L;Longus_colli_superior_oblique__L;M_Multifidus_R;Longissimus_capitis_L;Splenius_cervicis_L;Longus_colli_inferior_oblique__L;Semispinalis_cervicis_R;Splenius_capitis_L;Longus_colli_vertica__L;Levator_scapulae_L;Rotatores_thoracis_longi_R;Rotatores_thoracis_breves_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Scalenus_medius_R;Scalenus_anterior_R;Rectus_capitis_anterior_L;Longissimus_cervicis_L;Rectus_capitis_posterior_major_L;Longus_colli_superior_oblique__L;M_Multifidus_R;Longissimus_capitis_L;Splenius_cervicis_L;Longus_colli_inferior_oblique__L;Semispinalis_cervicis_R;Splenius_capitis_L;Longus_colli_vertica__L;Levator_scapulae_L;Rotatores_thoracis_longi_R;Rotatores_thoracis_breves_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "59,83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Scalenus_medius_R;Scalenus_anterior_R;Rectus_capitis_anterior_L;Longissimus_cervicis_L;Rectus_capitis_posterior_major_L;Longus_colli_superior_oblique__L;M_Multifidus_R;Longissimus_capitis_L;Splenius_cervicis_L;Longus_colli_inferior_oblique__L;Semispinalis_cervicis_R;Splenius_capitis_L;Longus_colli_vertica__L;Levator_scapulae_L;Rotatores_thoracis_longi_R;Rotatores_thoracis_breves_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "83,118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Scalenus_medius_R;Scalenus_anterior_R;Rectus_capitis_anterior_L;Longissimus_cervicis_L;Rectus_capitis_posterior_major_L;Longus_colli_superior_oblique__L;M_Multifidus_R;Longissimus_capitis_L;Splenius_cervicis_L;Longus_colli_inferior_oblique__L;Semispinalis_cervicis_R;Splenius_capitis_L;Longus_colli_vertica__L;Levator_scapulae_L;Rotatores_thoracis_longi_R;Rotatores_thoracis_breves_R;Trapezius_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Ipsilateral rotation of the head and cervical spine",
+    "nameCN": "头部和颈椎向右旋转",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Semispinalis_thoracis_L;Longus_colli_superior_oblique__R;Longus_colli_vertica__R;Semispinalis_capitis_lateral_fascicle__L;Semispinalis_capitis_medial_fascicle__L;Semispinalis_cervicis_L;Scalenus_posterior_L;Rotatores_thoracis_longi_L;Longus_colli_inferior_oblique__R;Longissimus_cervicis_L;Levator_scapulae_L;Longissimus_capitis_L;Rectus_capitis_posterior_major_R;Levator_scapulae_R;Scalenus_anterior_L;M_Multifidus_L;Scalenus_medius_L;Obliquus_capitis_inferior_R;Splenius_cervicis_R;Trapezius_L;Longissimus_capitis_R;Rectus_capitis_anterior_R;Rotatores_thoracis_breves_L;Splenius_capitis_R;Sternocleidomastoid_L"
+          }
+        ]
+      },
+      {
+        "clip": "24,58",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Semispinalis_thoracis_L;Longus_colli_superior_oblique__R;Longus_colli_vertica__R;Semispinalis_capitis_lateral_fascicle__L;Semispinalis_capitis_medial_fascicle__L;Semispinalis_cervicis_L;Scalenus_posterior_L;Rotatores_thoracis_longi_L;Longus_colli_inferior_oblique__R;Longissimus_cervicis_L;Levator_scapulae_L;Longissimus_capitis_L;Rectus_capitis_posterior_major_R;Levator_scapulae_R;Scalenus_anterior_L;M_Multifidus_L;Scalenus_medius_L;Obliquus_capitis_inferior_R;Splenius_cervicis_R;Trapezius_L;Longissimus_capitis_R;Rectus_capitis_anterior_R;Rotatores_thoracis_breves_L;Splenius_capitis_R;Sternocleidomastoid_L"
+          }
+        ]
+      },
+      {
+        "clip": "58,82",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Semispinalis_thoracis_L;Longus_colli_superior_oblique__R;Longus_colli_vertica__R;Semispinalis_capitis_lateral_fascicle__L;Semispinalis_capitis_medial_fascicle__L;Semispinalis_cervicis_L;Scalenus_posterior_L;Rotatores_thoracis_longi_L;Longus_colli_inferior_oblique__R;Longissimus_cervicis_L;Levator_scapulae_L;Longissimus_capitis_L;Rectus_capitis_posterior_major_R;Levator_scapulae_R;Scalenus_anterior_L;M_Multifidus_L;Scalenus_medius_L;Obliquus_capitis_inferior_R;Splenius_cervicis_R;Trapezius_L;Longissimus_capitis_R;Rectus_capitis_anterior_R;Rotatores_thoracis_breves_L;Splenius_capitis_R;Sternocleidomastoid_L"
+          }
+        ]
+      },
+      {
+        "clip": "82,116",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Semispinalis_thoracis_L;Longus_colli_superior_oblique__R;Longus_colli_vertica__R;Semispinalis_capitis_lateral_fascicle__L;Semispinalis_capitis_medial_fascicle__L;Semispinalis_cervicis_L;Scalenus_posterior_L;Rotatores_thoracis_longi_L;Longus_colli_inferior_oblique__R;Longissimus_cervicis_L;Levator_scapulae_L;Longissimus_capitis_L;Rectus_capitis_posterior_major_R;Levator_scapulae_R;Scalenus_anterior_L;M_Multifidus_L;Scalenus_medius_L;Obliquus_capitis_inferior_R;Splenius_cervicis_R;Trapezius_L;Longissimus_capitis_R;Rectus_capitis_anterior_R;Rotatores_thoracis_breves_L;Splenius_capitis_R;Sternocleidomastoid_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Lateral flexion of the head and cervical spine",
+    "nameCN": "头部和颈椎侧屈",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Trapezius_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;Rectus_capitis_posterior_major_R;Iliocostalis_cervicis_R;Levator_scapulae_R;Scalenus_posterior_R;Scalenus_medius_R;Scalenus_anterior_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R;Rectus_capitis_lateralis_R;M_Intertransversarii_laterales_lumborum_R;M_Intertransversarii_mediales_lumborum_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;Trapezius_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;Rectus_capitis_posterior_major_R;Iliocostalis_cervicis_R;Levator_scapulae_R;Scalenus_posterior_R;Scalenus_medius_R;Scalenus_anterior_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R;Rectus_capitis_lateralis_R;M_Intertransversarii_laterales_lumborum_R;M_Intertransversarii_mediales_lumborum_R"
+          }
+        ]
+      },
+      {
+        "clip": "63,87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Trapezius_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;Rectus_capitis_posterior_major_R;Iliocostalis_cervicis_R;Levator_scapulae_R;Scalenus_posterior_R;Scalenus_medius_R;Scalenus_anterior_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R;Rectus_capitis_lateralis_R;M_Intertransversarii_laterales_lumborum_R;M_Intertransversarii_mediales_lumborum_R"
+          }
+        ]
+      },
+      {
+        "clip": "87,126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Trapezius_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_cervicis_R;Semispinalis_capitis_lateral_fascicle__R;Rectus_capitis_posterior_major_R;Iliocostalis_cervicis_R;Levator_scapulae_R;Scalenus_posterior_R;Scalenus_medius_R;Scalenus_anterior_R;Longus_colli_vertica__R;Longus_colli_inferior_oblique__R;Longus_colli_superior_oblique__R;Rectus_capitis_lateralis_R;M_Intertransversarii_laterales_lumborum_R;M_Intertransversarii_mediales_lumborum_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Cirumduction of the head and cervical spine",
+    "nameCN": "头部和颈椎的旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Levator_scapulae_R;Iliocostalis_cervicis_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Trapezius_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longissimus_capitis_R;Longus_colli_inferior_oblique__R;Semispinalis_capitis_medial_fascicle__R;Spinalis_cervicis_R;Rectus_capitis_posterior_major_R;Semispinalis_capitis_lateral_fascicle__R;Longus_colli_superior_oblique__R;Interspinales_cervicis_R;Longissimus_cervicis_R;Scalenus_medius_R;Scalenus_anterior_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,35",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;Levator_scapulae_R;Iliocostalis_cervicis_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Trapezius_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longissimus_capitis_R;Longus_colli_inferior_oblique__R;Semispinalis_capitis_medial_fascicle__R;Spinalis_cervicis_R;Rectus_capitis_posterior_major_R;Semispinalis_capitis_lateral_fascicle__R;Longus_colli_superior_oblique__R;Interspinales_cervicis_R;Longissimus_cervicis_R;Scalenus_medius_R;Scalenus_anterior_R"
+          }
+        ]
+      },
+      {
+        "clip": "35,59",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      },
+      {
+        "clip": "59,71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      },
+      {
+        "clip": "71,95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      },
+      {
+        "clip": "95,107",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      },
+      {
+        "clip": "107,131",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      },
+      {
+        "clip": "131,143",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Sternocleidomastoid_R;M_Interspinales_lumborum_R;Longus_capitis_R;Rectus_capitis_lateralis_R;Longus_colli_vertica__R;M_Intertransversarii_laterales_lumborum_R;Scalenus_posterior_R;Longus_colli_inferior_oblique__R;Rectus_capitis_posterior_major_R;Longus_colli_superior_oblique__R;Scalenus_medius_R;Scalenus_anterior_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R;Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_medial_fascicle__R;Semispinalis_capitis_lateral_fascicle__R;Spinalis_cervicis_R;Interspinales_cervicis_R;Levator_scapulae_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Depresstion/elevation of the TMJ",
+    "nameCN": "颞下颌关节下降/上提",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Masseter_superficial_R;Medial_pterygoid_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lateral_pterygoid_superior_head__R;Digastric_R;Lateral_pterygoid_inferior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "24,71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Masseter_superficial_R;Medial_pterygoid_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lateral_pterygoid_superior_head__R;Digastric_R;Lateral_pterygoid_inferior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "71,94",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Temporalis_R;Masseter_superficial_R;Medial_pterygoid_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lateral_pterygoid_superior_head__R;Digastric_R;Lateral_pterygoid_inferior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "94,141",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Temporalis_R;Masseter_superficial_R;Medial_pterygoid_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lateral_pterygoid_superior_head__R;Digastric_R;Lateral_pterygoid_inferior_head__R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Lateral movement of the TMJ",
+    "nameCN": "颞下颌关节左侧移/右侧移",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Temporalis_R;Masseter_superficial_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lateral_pterygoid_superior_head__R;Lateral_pterygoid_inferior_head__R;Medial_pterygoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Temporalis_R;Masseter_superficial_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lateral_pterygoid_superior_head__R;Lateral_pterygoid_inferior_head__R;Medial_pterygoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "71,95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Masseter_superficial_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lateral_pterygoid_superior_head__R;Lateral_pterygoid_inferior_head__R;Medial_pterygoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "95,142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Masseter_superficial_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lateral_pterygoid_superior_head__R;Lateral_pterygoid_inferior_head__R;Medial_pterygoid_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Protruction/retraction of the TMJ",
+    "nameCN": "颞下颌关节前伸/后缩",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Digastric_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Masseter_superficial_R;Medial_pterygoid_R;Lateral_pterygoid_inferior_head__R;Lateral_pterygoid_superior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Digastric_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Masseter_superficial_R;Medial_pterygoid_R;Lateral_pterygoid_inferior_head__R;Lateral_pterygoid_superior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Temporalis_R;Digastric_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Masseter_superficial_R;Medial_pterygoid_R;Lateral_pterygoid_inferior_head__R;Lateral_pterygoid_superior_head__R"
+          }
+        ]
+      },
+      {
+        "clip": "79,110",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Temporalis_R;Digastric_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Masseter_superficial_R;Medial_pterygoid_R;Lateral_pterygoid_inferior_head__R;Lateral_pterygoid_superior_head__R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nounsEN": "Head and Neck",
+    "nounsCN": "头颈部",
+    "nameEN": "Elevation/depresstion of the hyoid bone",
+    "nameCN": "舌骨上提/下降",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Thyrohyoid_R;Sternothyroid_R;Sternohyoid_R;Omohyoid_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Digastric_R;Stylohyoid_R;Mylohyoid_R;Geniohyoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Thyrohyoid_R;Sternothyroid_R;Sternohyoid_R;Omohyoid_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Digastric_R;Stylohyoid_R;Mylohyoid_R;Geniohyoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Thyrohyoid_R;Sternothyroid_R;Sternohyoid_R;Omohyoid_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Digastric_R;Stylohyoid_R;Mylohyoid_R;Geniohyoid_R"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Thyrohyoid_R;Sternothyroid_R;Sternohyoid_R;Omohyoid_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Digastric_R;Stylohyoid_R;Mylohyoid_R;Geniohyoid_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "isFree": true,
+    "nameEN": "Depression/elevation of the eyebrows",
+    "nameCN": "眉毛下降/上提",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Occipitofrontalis_epicranius__R;Occipitofrontalis_epicranius__L"
+          },
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oculi_R;Orbicularis_oculi_L;Procerus_R;Procerus_L;Corrugator_supercilii_R;Corrugator_supercilii_L"
+          }
+        ]
+      },
+      {
+        "clip": "24,59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Occipitofrontalis_epicranius__R;Occipitofrontalis_epicranius__L"
+          },
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oculi_R;Orbicularis_oculi_L;Procerus_R;Procerus_L;Corrugator_supercilii_R;Corrugator_supercilii_L"
+          }
+        ]
+      },
+      {
+        "clip": "59,83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Occipitofrontalis_epicranius__R;Occipitofrontalis_epicranius__L"
+          },
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oculi_R;Orbicularis_oculi_L;Procerus_R;Procerus_L;Corrugator_supercilii_R;Corrugator_supercilii_L"
+          }
+        ]
+      },
+      {
+        "clip": "83,118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Occipitofrontalis_epicranius__R;Occipitofrontalis_epicranius__L"
+          },
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oculi_R;Orbicularis_oculi_L;Procerus_R;Procerus_L;Corrugator_supercilii_R;Corrugator_supercilii_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "nameEN": "Opening/closure of the lips",
+    "nameCN": "嘴唇张开/闭合",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Depressor_labii_inferioris_R;Depressor_labii_inferioris_L;Zygomaticus_minor_R;Zygomaticus_minor_L;Levator_labii_superioris_R;Levator_labii_superioris_L;Levator_labii_superioris_alaeque_nasi_R;Levator_labii_superioris_alaeque_nasi_L"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Depressor_labii_inferioris_R;Depressor_labii_inferioris_L;Zygomaticus_minor_R;Zygomaticus_minor_L;Levator_labii_superioris_R;Levator_labii_superioris_L;Levator_labii_superioris_alaeque_nasi_R;Levator_labii_superioris_alaeque_nasi_L"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Depressor_labii_inferioris_R;Depressor_labii_inferioris_L;Zygomaticus_minor_R;Zygomaticus_minor_L;Levator_labii_superioris_R;Levator_labii_superioris_L;Levator_labii_superioris_alaeque_nasi_R;Levator_labii_superioris_alaeque_nasi_L"
+          }
+        ]
+      },
+      {
+        "clip": "79,110",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Depressor_labii_inferioris_R;Depressor_labii_inferioris_L;Zygomaticus_minor_R;Zygomaticus_minor_L;Levator_labii_superioris_R;Levator_labii_superioris_L;Levator_labii_superioris_alaeque_nasi_R;Levator_labii_superioris_alaeque_nasi_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "nameEN": "Protrusion of the lips",
+    "nameCN": "嘴唇突出",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L"
+          }
+        ]
+      },
+      {
+        "clip": "79,110",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "nameEN": "Pursing of the lips",
+    "nameCN": "嘴唇撅起",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L;Buccinator_R;Buccinator_L"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L;Buccinator_R;Buccinator_L"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L;Buccinator_R;Buccinator_L"
+          }
+        ]
+      },
+      {
+        "clip": "79,110",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L;Mentalis_R;Mentalis_L;Buccinator_R;Buccinator_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "nameEN": "Depresstion/elevation of the corners of the mouth",
+    "nameCN": "嘴角下降/上提",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Zygomaticus_major_R;Levator_anguli_oris_R;Levator_anguli_oris_L;Zygomaticus_major_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Platysma_L;Orbicularis_oris_L;Depressor_anguli_oris_triangularis__L;Platysma_R;Depressor_anguli_oris_triangularis__R;Orbicularis_oris_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Zygomaticus_major_R;Levator_anguli_oris_R;Levator_anguli_oris_L;Zygomaticus_major_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Platysma_L;Orbicularis_oris_L;Depressor_anguli_oris_triangularis__L;Platysma_R;Depressor_anguli_oris_triangularis__R;Orbicularis_oris_R"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Zygomaticus_major_R;Levator_anguli_oris_R;Levator_anguli_oris_L;Zygomaticus_major_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Platysma_L;Orbicularis_oris_L;Depressor_anguli_oris_triangularis__L;Platysma_R;Depressor_anguli_oris_triangularis__R;Orbicularis_oris_R"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Zygomaticus_major_R;Levator_anguli_oris_R;Levator_anguli_oris_L;Zygomaticus_major_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Platysma_L;Orbicularis_oris_L;Depressor_anguli_oris_triangularis__L;Platysma_R;Depressor_anguli_oris_triangularis__R;Orbicularis_oris_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nounsEN": "Face",
+    "nounsCN": "面部",
+    "nameEN": "Retraction of the angles of the mouth",
+    "nameCN": "嘴角回缩",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Zygomaticus_major_L;Risorius_L;Zygomaticus_major_R;Risorius_R"
+          }
+        ]
+      },
+      {
+        "clip": "24,55",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Zygomaticus_major_L;Risorius_L;Zygomaticus_major_R;Risorius_R"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Zygomaticus_major_L;Risorius_L;Zygomaticus_major_R;Risorius_R"
+          }
+        ]
+      },
+      {
+        "clip": "55,79",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Orbicularis_oris_R;Orbicularis_oris_L"
+          },
+          {
+            "range": "0",
+            "muscle": "Zygomaticus_major_L;Risorius_L;Zygomaticus_major_R;Risorius_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nounsEN": "Shoulder",
+    "isFree": true,
+    "nounsCN": "肩部",
+    "nameEN": "Elevation/depresstion of the scapula",
+    "nameCN": "肩胛骨上提/下降",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Pectoralis_major_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Levator_scapulae_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 74",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Pectoralis_major_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Levator_scapulae_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "74, 98",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Pectoralis_major_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Levator_scapulae_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "98, 149",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Pectoralis_major_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Levator_scapulae_R;Trapezius_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Protraction/retraction of the scapula",
+    "nameCN": "肩胛骨前伸/后缩",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rhomboideus_minor_R;Rhomboideus_major_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 52",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rhomboideus_minor_R;Rhomboideus_major_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;"
+          }
+        ]
+      },
+      {
+        "clip": "52, 76",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rhomboideus_minor_R;Rhomboideus_major_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;"
+          }
+        ]
+      },
+      {
+        "clip": "76, 112",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rhomboideus_minor_R;Rhomboideus_major_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Upward/downward rotation of the scapula",
+    "nameCN": "肩胛骨向上旋转/向下旋转",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;Rhomboideus_minor_R;Rhomboideus_major_R;Levator_scapulae_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 66",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;Rhomboideus_minor_R;Rhomboideus_major_R;Levator_scapulae_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "66, 90",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;Rhomboideus_minor_R;Rhomboideus_major_R;Levator_scapulae_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "90, 132",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_minor_R;Serratus_anterior_R;Rhomboideus_minor_R;Rhomboideus_major_R;Levator_scapulae_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Flexion/extension of the shoulder",
+    "nameCN": "肩部伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_major_R;Deltoid_posterior_head_R;Teres_major_R;M_Latissimus_dorsi_R;Triceps_brachii_long_head_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 67",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Pectoralis_major_R;Deltoid_posterior_head_R;Teres_major_R;M_Latissimus_dorsi_R;Triceps_brachii_long_head_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "67, 91",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;Deltoid_posterior_head_R;Teres_major_R;M_Latissimus_dorsi_R;Triceps_brachii_long_head_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "91, 134",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;Deltoid_posterior_head_R;Teres_major_R;M_Latissimus_dorsi_R;Triceps_brachii_long_head_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Abduction/adduction of the shoulder",
+    "nameCN": "肩部外展/内收",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Deltoid_posterior_head_R;Pectoralis_major_R;M_Latissimus_dorsi_R;Coracobrachialis_R;Triceps_brachii_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 83",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Deltoid_posterior_head_R;Pectoralis_major_R;M_Latissimus_dorsi_R;Coracobrachialis_R;Triceps_brachii_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Deltoid_middle_head_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 107",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;M_Latissimus_dorsi_R;Coracobrachialis_R;Triceps_brachii_long_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_posterior_head_R;Deltoid_anterior_head_R;Deltoid_middle_head_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "107, 166",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;M_Latissimus_dorsi_R;Coracobrachialis_R;Triceps_brachii_long_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_posterior_head_R;Deltoid_anterior_head_R;Deltoid_middle_head_R;Supraspinatus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Horizontal abduction/adduction of the shoulder",
+    "nameCN": "肩部水平外展/水平内收",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Pectoralis_major_R;Serratus_anterior_R;Pectoralis_minor_R;Deltoid_anterior_head_R;Biceps_brachii_short_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Teres_minor_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 74",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Pectoralis_major_R;Serratus_anterior_R;Pectoralis_minor_R;Deltoid_anterior_head_R;Biceps_brachii_short_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Teres_minor_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "74, 97",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_brachii_long_head_R;Pectoralis_major_R;Serratus_anterior_R;Pectoralis_minor_R;Deltoid_anterior_head_R;Biceps_brachii_short_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Teres_minor_R;Supraspinatus_R"
+          }
+        ]
+      },
+      {
+        "clip": "97, 146",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_brachii_long_head_R;Pectoralis_major_R;Serratus_anterior_R;Pectoralis_minor_R;Deltoid_anterior_head_R;Biceps_brachii_short_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Trapezius_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Teres_minor_R;Supraspinatus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Internal/external rotaion of the shoulder",
+    "nameCN": "肩部内旋/外旋",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Deltoid_middle_head_R;Deltoid_posterior_head_R;Infraspinatus_R;Teres_minor_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;Deltoid_anterior_head_R;M_Latissimus_dorsi_R;Subscapularis_R;Teres_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 69",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Deltoid_middle_head_R;Deltoid_posterior_head_R;Infraspinatus_R;Teres_minor_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectoralis_major_R;Deltoid_anterior_head_R;M_Latissimus_dorsi_R;Subscapularis_R;Teres_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "69, 93",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Deltoid_posterior_head_R;Infraspinatus_R;Teres_minor_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_middle_head_R;Pectoralis_major_R;Deltoid_anterior_head_R;M_Latissimus_dorsi_R;Subscapularis_R;Teres_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "93, 138",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Deltoid_posterior_head_R;Infraspinatus_R;Teres_minor_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Deltoid_middle_head_R;Pectoralis_major_R;Deltoid_anterior_head_R;M_Latissimus_dorsi_R;Subscapularis_R;Teres_major_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nounsEN": "Shoulder",
+    "nounsCN": "肩部",
+    "nameEN": "Cirumduction of the shoulder",
+    "nameCN": "肩关节旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Teres_minor_R;M_Latissimus_dorsi_R;Deltoid_middle_head_R;Pectoralis_major_R;Serratus_anterior_R;Teres_major_R;Coracobrachialis_R;Triceps_brachii_lateral_head_R;Triceps_brachii_tendon_R;Triceps_brachii_medial_head_R;Trapezius_R;Deltoid_posterior_head_R;Supraspinatus_R;Triceps_brachii_long_head_R;Subscapularis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 36",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Teres_minor_R;M_Latissimus_dorsi_R;Deltoid_middle_head_R;Pectoralis_major_R;Serratus_anterior_R;Teres_major_R;Coracobrachialis_R;Triceps_brachii_lateral_head_R;Triceps_brachii_tendon_R;Triceps_brachii_medial_head_R;Trapezius_R;Deltoid_posterior_head_R;Supraspinatus_R;Triceps_brachii_long_head_R;Subscapularis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_anterior_head_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "36, 60",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Teres_minor_R;Biceps_brachii_long_head_R;M_Latissimus_dorsi_R;Pectoralis_major_R;Serratus_anterior_R;Teres_major_R;Coracobrachialis_R;Triceps_brachii_lateral_head_R;Triceps_brachii_tendon_R;Triceps_brachii_medial_head_R;Trapezius_R;Deltoid_posterior_head_R;Supraspinatus_R;Biceps_brachii_short_head_R;Triceps_brachii_long_head_R;Subscapularis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_middle_head_R;Deltoid_anterior_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "60, 68",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Teres_minor_R;Biceps_brachii_long_head_R;M_Latissimus_dorsi_R;Pectoralis_major_R;Serratus_anterior_R;Teres_major_R;Coracobrachialis_R;Triceps_brachii_lateral_head_R;Triceps_brachii_tendon_R;Triceps_brachii_medial_head_R;Trapezius_R;Deltoid_posterior_head_R;Supraspinatus_R;Biceps_brachii_short_head_R;Triceps_brachii_long_head_R;Subscapularis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Deltoid_middle_head_R;Deltoid_anterior_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "68, 92",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Subscapularis_R;Pectoralis_major_R;Triceps_brachii_medial_head_R;Biceps_brachii_short_head_R;Triceps_brachii_lateral_head_R;Biceps_brachii_long_head_R;Supraspinatus_R;Teres_minor_R;Deltoid_middle_head_R;Coracobrachialis_R;Serratus_anterior_R;Deltoid_anterior_head_R;Triceps_brachii_tendon_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Triceps_brachii_long_head_R;M_Latissimus_dorsi_R;Deltoid_posterior_head_R;Teres_major_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "92, 108",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Subscapularis_R;Pectoralis_major_R;Triceps_brachii_medial_head_R;Biceps_brachii_short_head_R;Triceps_brachii_lateral_head_R;Biceps_brachii_long_head_R;Supraspinatus_R;Teres_minor_R;Deltoid_middle_head_R;Coracobrachialis_R;Serratus_anterior_R;Deltoid_anterior_head_R;Triceps_brachii_tendon_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Triceps_brachii_long_head_R;M_Latissimus_dorsi_R;Deltoid_posterior_head_R;Teres_major_R;Trapezius_R"
+          }
+        ]
+      },
+      {
+        "clip": "108,132",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Coracobrachialis_R;Teres_major_R;Teres_minor_R;Triceps_brachii_medial_head_R;Subscapularis_R;Triceps_brachii_tendon_R;Serratus_anterior_R;Biceps_brachii_short_head_R;Deltoid_anterior_head_R;Pectoralis_major_R;M_Latissimus_dorsi_R;Supraspinatus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Triceps_brachii_long_head_R;Triceps_brachii_lateral_head_R;Deltoid_posterior_head_R;Deltoid_middle_head_R"
+          }
+        ]
+      },
+      {
+        "clip": "132,148",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Trapezius_R;Coracobrachialis_R;Teres_major_R;Teres_minor_R;Triceps_brachii_medial_head_R;Subscapularis_R;Triceps_brachii_tendon_R;Serratus_anterior_R;Biceps_brachii_short_head_R;Deltoid_anterior_head_R;Pectoralis_major_R;M_Latissimus_dorsi_R;Supraspinatus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Triceps_brachii_long_head_R;Triceps_brachii_lateral_head_R;Deltoid_posterior_head_R;Deltoid_middle_head_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nounsEN": "Upper limbs",
+    "isFree": true,
+    "nounsCN": "上肢",
+    "nameEN": "Flexion/extension of the ",
+    "nameCN": "肘部伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Triceps_brachii_long_head_R;Anconeus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Biceps_brachii_short_head_R;Biceps_brachii_long_head_R;Brachialis_R;Brachioradialis_R;Pronator_teres_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Triceps_brachii_long_head_R;Anconeus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Biceps_brachii_short_head_R;Biceps_brachii_long_head_R;Brachialis_R;Brachioradialis_R;Pronator_teres_R"
+          }
+        ]
+      },
+      {
+        "clip": "63, 87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Triceps_brachii_long_head_R;Anconeus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Biceps_brachii_short_head_R;Biceps_brachii_long_head_R;Brachialis_R;Brachioradialis_R;Pronator_teres_R"
+          }
+        ]
+      },
+      {
+        "clip": "87, 126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Triceps_brachii_long_head_R;Anconeus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_carpi_ulnaris_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Biceps_brachii_short_head_R;Biceps_brachii_long_head_R;Brachialis_R;Brachioradialis_R;Pronator_teres_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Pronation/supination of the forearm",
+    "nameCN": "前臂旋前/旋后",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;Supinator_R;Extensor_indicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pronator_teres_R;Pronator_quadratus_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 68",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;Supinator_R;Extensor_indicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pronator_teres_R;Pronator_quadratus_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      },
+      {
+        "clip": "68, 92",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;Supinator_R;Extensor_indicis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Pronator_teres_R;Pronator_quadratus_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      },
+      {
+        "clip": "92, 136",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;Supinator_R;Extensor_indicis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Pronator_teres_R;Pronator_quadratus_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Extension/flesion of the wrist",
+    "nameCN": "腕关节伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Flexor_carpi_ulnaris_R;Flexor_pollicis_longus_R;Flexor_digitorum_profundus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_carpi_radialis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 65",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Flexor_carpi_ulnaris_R;Flexor_pollicis_longus_R;Flexor_digitorum_profundus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_carpi_radialis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "65, 89",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Flexor_carpi_ulnaris_R;Flexor_pollicis_longus_R;Flexor_digitorum_profundus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Extensor_carpi_radialis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "89, 130",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_radialis_R;Flexor_carpi_ulnaris_R;Flexor_pollicis_longus_R;Flexor_digitorum_profundus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Extensor_carpi_radialis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Ulnar/radial deviation of the wrist",
+    "nameCN": "腕关节尺侧偏斜/桡侧偏斜",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 58",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "58, 82",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "82, 116",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Flexor_carpi_radialis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Circumduction of the wrist",
+    "nameCN": "腕关节旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Extensor_carpi_ulnaris_R;Flexor_digitorum_profundus_R;Extensor_digiti_minimi_R;Palmaris_longus_R;Flexor_pollicis_longus_R;Flexor_carpi_ulnaris_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_indicis_R;Extensor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 35",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Extensor_carpi_ulnaris_R;Flexor_digitorum_profundus_R;Extensor_digiti_minimi_R;Palmaris_longus_R;Flexor_pollicis_longus_R;Flexor_carpi_ulnaris_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_indicis_R;Extensor_pollicis_longus_R;Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R;Flexor_carpi_radialis_R"
+          }
+        ]
+      },
+      {
+        "clip": "35, 58",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R;Flexor_carpi_radialis_R;Palmaris_longus_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Flexor_pollicis_longus_R;Flexor_carpi_ulnaris_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_indicis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "58, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R;Flexor_carpi_radialis_R;Palmaris_longus_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Flexor_pollicis_longus_R;Flexor_carpi_ulnaris_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_carpi_radialis_brevis_R;Extensor_carpi_radialis_longus_R;Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_carpi_ulnaris_R;Extensor_indicis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "71, 94",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R;Extensor_carpi_radialis_longus_R;Extensor_indicis_R;Flexor_carpi_radialis_R;Extensor_digiti_minimi_R;Extensor_carpi_radialis_brevis_R;Palmaris_longus_R;Abductor_pollicis_longus_R;Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Flexor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "94,107",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R;Extensor_carpi_radialis_longus_R;Extensor_indicis_R;Flexor_carpi_radialis_R;Extensor_digiti_minimi_R;Extensor_carpi_radialis_brevis_R;Palmaris_longus_R;Abductor_pollicis_longus_R;Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Flexor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_ulnaris_R;Extensor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "107, 130",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_carpi_ulnaris_R;Flexor_digitorum_profundus_R;Extensor_carpi_radialis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Extensor_carpi_radialis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_radialis_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_ulnaris_R"
+          }
+        ]
+      },
+      {
+        "clip": "130, 153",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_carpi_ulnaris_R;Flexor_digitorum_profundus_R;Extensor_carpi_radialis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Extensor_carpi_radialis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_carpi_radialis_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmaris_longus_R;Flexor_carpi_ulnaris_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Flexion/extension of the MCP and IP joints(with adduction/abduction)",
+    "nameCN": "掌指关节和指间关节的伸展/屈曲（伴有内收/外展）",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Palmar_interosseous_1st_R;Lumbrical_4th_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Lumbrical3rd_R;Dorsal_interosseous_1st_R;Palmar_interosseous3rd_R;Flexor_digitorum_profundus_R;Lumbrical_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Lumbrical_1st_R;Flexor_digiti_minimi_brevis_hand__R;Lumbrical_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 83",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Palmar_interosseous_1st_R;Lumbrical_4th_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Lumbrical3rd_R;Dorsal_interosseous_1st_R;Palmar_interosseous3rd_R;Flexor_digitorum_profundus_R;Lumbrical_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Lumbrical_1st_R;Flexor_digiti_minimi_brevis_hand__R;Lumbrical_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 107",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Palmar_interosseous_1st_R;Lumbrical_4th_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Lumbrical3rd_R;Dorsal_interosseous_1st_R;Palmar_interosseous3rd_R;Flexor_digitorum_profundus_R;Lumbrical_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Lumbrical_1st_R;Flexor_digiti_minimi_brevis_hand__R;Lumbrical_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "107, 166",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Extensor_digiti_minimi_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Palmar_interosseous_1st_R;Lumbrical_4th_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Lumbrical3rd_R;Dorsal_interosseous_1st_R;Palmar_interosseous3rd_R;Flexor_digitorum_profundus_R;Lumbrical_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Lumbrical_1st_R;Flexor_digiti_minimi_brevis_hand__R;Lumbrical_3rd_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Adduction /abduction of the MCP joints(with flexion/extension)",
+    "nameCN": "掌指关节的内收/外展（伴有屈曲/伸展）",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R;Extensor_indicis_R;Extensor_digiti_minimi_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 74",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R;Extensor_indicis_R;Extensor_digiti_minimi_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "74, 98",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R;Extensor_indicis_R;Extensor_digiti_minimi_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "98, 150",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R;Extensor_indicis_R;Extensor_digiti_minimi_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Circumduction of the MCP joint of the hand",
+    "nameCN": "手部掌指关节的旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,48",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "Extensor_digiti_minimi_R;Abductor_digiti_minimi_hand__R;Flexor_digiti_minimi_brevis_hand__R"
+      },
+      {
+        "clip": "1,12",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R;Lumbrical_1st_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Lumbrical_4th_R"
+      },
+      {
+        "clip": "12,26",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R"
+      },
+      {
+        "clip": "12,26",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Extensor_digitorum_R;Extensor_indicis_R"
+      },
+      {
+        "clip": "26,36",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Extensor_digitorum_R;Extensor_indicis_R"
+      },
+      {
+        "clip": "26,36",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R"
+      },
+      {
+        "clip": "36,48",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R"
+      },
+      {
+        "clip": "36,48",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Lumbrical_1st_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Lumbrical_4th_R;Flexor_digitorum_superficialis_R;Flexor_digitorum_profundus_R"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Palmar abduction/adduction of the CMC joint of the thumb",
+    "nameCN": "拇指腕掌关节的掌侧外展/内收",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Extensor_pollicis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Extensor_pollicis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Extensor_pollicis_longus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Extensor_pollicis_longus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Radial adduction / abduction of the CMC joint of the thumb",
+    "nameCN": "拇指腕掌关节径向内收/外展",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Opponens_pollicis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Opponens_pollicis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Opponens_pollicis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Opponens_pollicis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Opposition",
+    "nameCN": "对掌",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digiti_minimi_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Opponens_pollicis_R;Opponens_digiti_minimi_hand__R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digiti_minimi_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Opponens_pollicis_R;Opponens_digiti_minimi_hand__R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digiti_minimi_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Opponens_pollicis_R;Opponens_digiti_minimi_hand__R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digiti_minimi_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Opponens_pollicis_R;Opponens_digiti_minimi_hand__R;Abductor_pollicis_brevis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Circumduction of the CMC joint of the thumb",
+    "nameCN": "拇指腕掌关节的旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Extensor_digitorum_R;Adductor_pollicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Opponens_pollicis_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 37",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Extensor_digitorum_R;Adductor_pollicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Opponens_pollicis_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "37, 61",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Opponens_pollicis_R;Flexor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_digitorum_R;Adductor_pollicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "61, 73",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Opponens_pollicis_R;Flexor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_digitorum_R;Adductor_pollicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Extensor_pollicis_longus_R;Extensor_pollicis_brevis_R;Abductor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "73, 97",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Opponens_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "97, 109",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Opponens_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "109, 133",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_pollicis_longus_R;Opponens_pollicis_R;Flexor_pollicis_brevis_R;Abductor_pollicis_brevis_R;Adductor_pollicis_R"
+          }
+        ]
+      },
+      {
+        "clip": "133, 143",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Flexor_pollicis_longus_R;;Flexor_pollicis_brevis_R;Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Palmar_interosseous_3rd_R;Palmar_interosseous_2nd_R;Palmar_interosseous_1st_R;Abductor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_pollicis_longus_R;Opponens_pollicis_R;Flexor_pollicis_brevis_R;Abductor_pollicis_brevis_R;Adductor_pollicis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Thumb extension/flexion",
+    "nameCN": "拇指伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_brevis_R;Flexor_pollicis_brevis_R;Adductor_pollicis_R;Flexor_pollicis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_brevis_R;Flexor_pollicis_brevis_R;Adductor_pollicis_R;Flexor_pollicis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Flexor_pollicis_brevis_R;Adductor_pollicis_R;Flexor_pollicis_longus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_brevis_R;Flexor_pollicis_brevis_R;Adductor_pollicis_R;Flexor_pollicis_longus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "The metacarpophalangeal joints were extended (hyperextended), and the interphalangeal joints were slightly extended",
+    "nameCN": "掌指关节伸展（过度伸展），指间关节轻微伸展",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Dorsal_interosseous_1st_R;Lumbrical_4th_R;Lumbrical_1st_R;Dorsal_interosseous_2nd_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Dorsal_interosseous_4th_R;Dorsal_interosseous_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Dorsal_interosseous_1st_R;Lumbrical_4th_R;Lumbrical_1st_R;Dorsal_interosseous_2nd_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Dorsal_interosseous_4th_R;Dorsal_interosseous_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Dorsal_interosseous_1st_R;Lumbrical_4th_R;Lumbrical_1st_R;Dorsal_interosseous_2nd_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Dorsal_interosseous_4th_R;Dorsal_interosseous_3rd_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Dorsal_interosseous_1st_R;Lumbrical_4th_R;Lumbrical_1st_R;Dorsal_interosseous_2nd_R;Lumbrical_2nd_R;Lumbrical_3rd_R;Dorsal_interosseous_4th_R;Dorsal_interosseous_3rd_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "The metacarpophalangeal joints were flexed, and the thumb interphalangeal joints and distal knuckles were extended",
+    "nameCN": "掌指关节屈曲，拇指指间关节和远端指节伸展",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R;Extensor_carpi_ulnaris_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_profundus_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R;Extensor_carpi_ulnaris_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_profundus_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R;Extensor_carpi_ulnaris_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_profundus_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "83, 118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Abductor_pollicis_longus_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_digitorum_R;Extensor_carpi_ulnaris_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_profundus_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Power Grip",
+    "nameCN": "力性抓握",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_digiti_minimi_R;Extensor_indicis_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_3rd_R;Adductor_pollicis_R;Flexor_digitorum_profundus_R;Palmar_interosseous_2nd_R;Opponens_pollicis_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Palmar_interosseous_1st_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_digiti_minimi_R;Extensor_indicis_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_3rd_R;Adductor_pollicis_R;Flexor_digitorum_profundus_R;Palmar_interosseous_2nd_R;Opponens_pollicis_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Palmar_interosseous_1st_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_digiti_minimi_R;Extensor_indicis_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_3rd_R;Adductor_pollicis_R;Flexor_digitorum_profundus_R;Palmar_interosseous_2nd_R;Opponens_pollicis_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Palmar_interosseous_1st_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 140",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_digiti_minimi_R;Extensor_indicis_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_3rd_R;Adductor_pollicis_R;Flexor_digitorum_profundus_R;Palmar_interosseous_2nd_R;Opponens_pollicis_R;Flexor_digitorum_superficialis_R;Flexor_pollicis_longus_R;Palmar_interosseous_1st_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Precision Grip",
+    "nameCN": "精准抓握",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R;Abductor_pollicis_brevis_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_1st_R;Flexor_digitorum_profundus_R;Adductor_pollicis_R;Flexor_pollicis_longus_R;Palmar_interosseous_3rd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Flexor_digiti_minimi_brevis_hand__R;Opponens_pollicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Flexor_digitorum_superficialis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R;Abductor_pollicis_brevis_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Palmar_interosseous_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_1st_R;Flexor_digitorum_profundus_R;Adductor_pollicis_R;Flexor_pollicis_longus_R;Palmar_interosseous_3rd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Flexor_digiti_minimi_brevis_hand__R;Opponens_pollicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Flexor_digitorum_superficialis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R;Abductor_pollicis_brevis_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_1st_R;Flexor_digitorum_profundus_R;Adductor_pollicis_R;Flexor_pollicis_longus_R;Palmar_interosseous_3rd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Flexor_digiti_minimi_brevis_hand__R;Opponens_pollicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Flexor_digitorum_superficialis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Extensor_pollicis_brevis_R;Extensor_pollicis_longus_R;Extensor_indicis_R;Abductor_pollicis_brevis_R;Abductor_digiti_minimi_hand__R"
+          },
+          {
+            "range": "0",
+            "muscle": "Palmar_interosseous_2nd_R;Dorsal_interosseous_2nd_R;Palmar_interosseous_1st_R;Flexor_digitorum_profundus_R;Adductor_pollicis_R;Flexor_pollicis_longus_R;Palmar_interosseous_3rd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;Flexor_pollicis_brevis_R;Flexor_digiti_minimi_brevis_hand__R;Opponens_pollicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Flexor_digitorum_superficialis_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nounsEN": "Upper limbs",
+    "nounsCN": "上肢",
+    "nameEN": "Hook Grip",
+    "nameCN": "钩握",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Flexor_digitorum_profundus_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 60",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_pollicis_R;Flexor_digitorum_profundus_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;"
+          }
+        ]
+      },
+      {
+        "clip": "60, 84",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Flexor_digitorum_profundus_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;"
+          }
+        ]
+      },
+      {
+        "clip": "84, 119",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_R;Abductor_pollicis_longus_R;Extensor_indicis_R;Extensor_digiti_minimi_R;Dorsal_interosseous_1st_R;Dorsal_interosseous_2nd_R;Dorsal_interosseous_3rd_R;Dorsal_interosseous_4th_R;"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_pollicis_R;Flexor_digitorum_profundus_R;Flexor_pollicis_longus_R;Flexor_digitorum_superficialis_R;Palmar_interosseous_1st_R;Palmar_interosseous_2nd_R;Palmar_interosseous_3rd_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nounsEN": "Trunk",
+    "isFree": true,
+    "nounsCN": "躯干",
+    "nameEN": "Flextion/extension of the trunk",
+    "nameCN": "躯干伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Rectus_abdominis_L;M_External_oblique_R;M_Internal_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;Spinalis_thoracis_R;Semispinalis_thoracis_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Psoas_major_R;M_Iliocostalis_lumborum_L;Iliocostalis_thoracis_L;M_Longissimus_thoracis_L;Spinalis_thoracis_L;Semispinalis_thoracis_L;M_Multifidus_L;M_Quadratus_lumborum_L;M_Psoas_major_L;Interspinales_cervicis_R;Interspinales_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "24, 74",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Rectus_abdominis_L;M_External_oblique_R;M_Internal_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;Spinalis_thoracis_R;Semispinalis_thoracis_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Psoas_major_R;M_Iliocostalis_lumborum_L;Iliocostalis_thoracis_L;M_Longissimus_thoracis_L;Spinalis_thoracis_L;Semispinalis_thoracis_L;M_Multifidus_L;M_Quadratus_lumborum_L;M_Psoas_major_L;Interspinales_cervicis_R;Interspinales_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "74, 96",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Rectus_abdominis_L;M_External_oblique_R;M_Internal_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;Spinalis_thoracis_R;Semispinalis_thoracis_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Psoas_major_R;M_Iliocostalis_lumborum_L;Iliocostalis_thoracis_L;M_Longissimus_thoracis_L;Spinalis_thoracis_L;Semispinalis_thoracis_L;M_Multifidus_L;M_Quadratus_lumborum_L;M_Psoas_major_L;Interspinales_cervicis_R;Interspinales_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "96, 146",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Rectus_abdominis_L;M_External_oblique_R;M_Internal_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;Spinalis_thoracis_R;Semispinalis_thoracis_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Psoas_major_R;M_Iliocostalis_lumborum_L;Iliocostalis_thoracis_L;M_Longissimus_thoracis_L;Spinalis_thoracis_L;Semispinalis_thoracis_L;M_Multifidus_L;M_Quadratus_lumborum_L;M_Psoas_major_L;Interspinales_cervicis_R;Interspinales_cervicis_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nounsEN": "Trunk",
+    "nounsCN": "躯干",
+    "nameEN": "Lateral flexion of the trunk",
+    "nameCN": "躯干侧屈",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Multifidus_R;M_Quadratus_lumborum_R;Semispinalis_thoracis_R;M_Iliocostalis_lumborum_R;Intertransversarii_posteriores_cervicis_R;M_External_oblique_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_Longissimus_thoracis_R;M_Rectus_sheath_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_External_oblique_L;M_Iliocostalis_lumborum_L;Intertransversarii_thoracis_L;Semispinalis_thoracis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;M_Multifidus_L;Intertransversarii_anteriores_cervicis_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_Longissimus_thoracis_L;Intertransversarii_posteriores_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "24, 84",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Multifidus_R;M_Quadratus_lumborum_R;Semispinalis_thoracis_R;M_Iliocostalis_lumborum_R;Intertransversarii_posteriores_cervicis_R;M_External_oblique_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_Longissimus_thoracis_R;M_Rectus_sheath_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_External_oblique_L;M_Iliocostalis_lumborum_L;Intertransversarii_thoracis_L;Semispinalis_thoracis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;M_Multifidus_L;Intertransversarii_anteriores_cervicis_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_Longissimus_thoracis_L;Intertransversarii_posteriores_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "84, 108",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Multifidus_R;M_Quadratus_lumborum_R;Semispinalis_thoracis_R;M_Iliocostalis_lumborum_R;Intertransversarii_posteriores_cervicis_R;M_External_oblique_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_Longissimus_thoracis_R;M_Rectus_sheath_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_External_oblique_L;M_Iliocostalis_lumborum_L;Intertransversarii_thoracis_L;Semispinalis_thoracis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;M_Multifidus_L;Intertransversarii_anteriores_cervicis_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_Longissimus_thoracis_L;Intertransversarii_posteriores_cervicis_L"
+          }
+        ]
+      },
+      {
+        "clip": "108, 168",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Multifidus_R;M_Quadratus_lumborum_R;Semispinalis_thoracis_R;M_Iliocostalis_lumborum_R;Intertransversarii_posteriores_cervicis_R;M_External_oblique_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_Longissimus_thoracis_R;M_Rectus_sheath_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_External_oblique_L;M_Iliocostalis_lumborum_L;Intertransversarii_thoracis_L;Semispinalis_thoracis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;M_Multifidus_L;Intertransversarii_anteriores_cervicis_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_Longissimus_thoracis_L;Intertransversarii_posteriores_cervicis_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nounsEN": "Trunk",
+    "nounsCN": "躯干",
+    "nameEN": "Rotation of the trunk",
+    "nameCN": "躯干旋转",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rotatores_thoracis_longi_R;M_Longissimus_thoracis_L;M_Internal_oblique_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_External_oblique_R;Semispinalis_thoracis_R;M_Rectus_sheath_R;Rotatores_thoracis_breves_R;M_Iliocostalis_lumborum_L;M_Multifidus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Internal_oblique_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;M_Multifidus_L;Semispinalis_thoracis_L;M_External_oblique_L;Rotatores_thoracis_breves_L;Rotatores_thoracis_longi_L"
+          }
+        ]
+      },
+      {
+        "clip": "24, 63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Rotatores_thoracis_longi_R;M_Longissimus_thoracis_L;M_Internal_oblique_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_External_oblique_R;Semispinalis_thoracis_R;M_Rectus_sheath_R;Rotatores_thoracis_breves_R;M_Iliocostalis_lumborum_L;M_Multifidus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Internal_oblique_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;M_Multifidus_L;Semispinalis_thoracis_L;M_External_oblique_L;Rotatores_thoracis_breves_L;Rotatores_thoracis_longi_L"
+          }
+        ]
+      },
+      {
+        "clip": "63, 87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rotatores_thoracis_longi_R;M_Longissimus_thoracis_L;M_Internal_oblique_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_External_oblique_R;Semispinalis_thoracis_R;M_Rectus_sheath_R;Rotatores_thoracis_breves_R;M_Iliocostalis_lumborum_L;M_Multifidus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Internal_oblique_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;M_Multifidus_L;Semispinalis_thoracis_L;M_External_oblique_L;Rotatores_thoracis_breves_L;Rotatores_thoracis_longi_L"
+          }
+        ]
+      },
+      {
+        "clip": "87, 126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Rotatores_thoracis_longi_R;M_Longissimus_thoracis_L;M_Internal_oblique_L;Iliocostalis_thoracis_L;M_Rectus_sheath_L;M_External_oblique_R;Semispinalis_thoracis_R;M_Rectus_sheath_R;Rotatores_thoracis_breves_R;M_Iliocostalis_lumborum_L;M_Multifidus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Internal_oblique_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Longissimus_thoracis_R;M_Multifidus_L;Semispinalis_thoracis_L;M_External_oblique_L;Rotatores_thoracis_breves_L;Rotatores_thoracis_longi_L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nounsEN": "Trunk",
+    "nounsCN": "躯干",
+    "nameEN": "Respiration",
+    "nameCN": "呼吸",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0,24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Quadratus_lumborum_L;FBXASC0483Diaphragm;intercostal_intimus_R;Transversus_thoracis_L;Transversus_thoracis_R;Scalenus_anterior_L;M_Quadratus_lumborum_R;intercostal_intimus_L;External_intercostal_R;Scalenus_anterior_R;External_intercostal_L;M_Internal_oblique_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Internal_intercostal_L;Internal_intercostal_R;M_External_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R;M_Transversus_abdominis_R;Levatores_costarum_longi__L;Levatores_costarum_longi__R;Levatores_costarum_breves__R;Levatores_costarum_breves__L"
+          }
+        ]
+      },
+      {
+        "clip": "24, 63",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Quadratus_lumborum_L;FBXASC0483Diaphragm;intercostal_intimus_R;Transversus_thoracis_L;Transversus_thoracis_R;Scalenus_anterior_L;M_Quadratus_lumborum_R;intercostal_intimus_L;External_intercostal_R;Scalenus_anterior_R;External_intercostal_L;M_Internal_oblique_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Internal_intercostal_L;Internal_intercostal_R;M_External_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R;M_Transversus_abdominis_R;Levatores_costarum_longi__L;Levatores_costarum_longi__R;Levatores_costarum_breves__R;Levatores_costarum_breves__L"
+          }
+        ]
+      },
+      {
+        "clip": "63, 87",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Quadratus_lumborum_L;FBXASC0483Diaphragm;intercostal_intimus_R;Transversus_thoracis_L;Transversus_thoracis_R;Scalenus_anterior_L;M_Quadratus_lumborum_R;intercostal_intimus_L;External_intercostal_R;Scalenus_anterior_R;External_intercostal_L;M_Internal_oblique_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Internal_intercostal_L;Internal_intercostal_R;M_External_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R;M_Transversus_abdominis_R;Levatores_costarum_longi__L;Levatores_costarum_longi__R;Levatores_costarum_breves__R;Levatores_costarum_breves__L"
+          }
+        ]
+      },
+      {
+        "clip": "87, 130",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Quadratus_lumborum_L;FBXASC0483Diaphragm;intercostal_intimus_R;Transversus_thoracis_L;Transversus_thoracis_R;Scalenus_anterior_L;M_Quadratus_lumborum_R;intercostal_intimus_L;External_intercostal_R;Scalenus_anterior_R;External_intercostal_L;M_Internal_oblique_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Internal_intercostal_L;Internal_intercostal_R;M_External_oblique_R;M_Rectus_sheath_R;M_Rectus_abdominis_R;M_Transversus_abdominis_R;Levatores_costarum_longi__L;Levatores_costarum_longi__R;Levatores_costarum_breves__R;Levatores_costarum_breves__L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nounsEN": "Pelvic and hip",
+    "nounsCN": "髋部和骨盆",
+    "isFree": true,
+    "nameEN": "Contraction of the pelvic floor",
+    "nameCN": "盆底收缩",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Piriformis_R;M_Piriformis_L;M_Obturator_internus_L;M_Obturator_internus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Puborectalis_part_of_levator_ani__R;Anal_sphincter_internal_R;M_Iliococcygeus_part_of_levator_ani__R;M_Anal_sphincter_external_L;M_Anal_sphincter_external_R;M_Pubococcygeus_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__R;M_Prerectal_fibers_part_of_levator_ani__R;M_Puborectalis_part_of_levator_ani__L;M_Anococcygeal_ligament;M_Prerectal_fibers_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__L;M_Iliococcygeus_part_of_levator_ani__L;M_Pubococcygeus_part_of_levator_ani__R;Anal_sphincter_internal_L;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Piriformis_R;M_Piriformis_L;M_Obturator_internus_L;M_Obturator_internus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Puborectalis_part_of_levator_ani__R;Anal_sphincter_internal_R;M_Iliococcygeus_part_of_levator_ani__R;M_Anal_sphincter_external_L;M_Anal_sphincter_external_R;M_Pubococcygeus_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__R;M_Prerectal_fibers_part_of_levator_ani__R;M_Puborectalis_part_of_levator_ani__L;M_Anococcygeal_ligament;M_Prerectal_fibers_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__L;M_Iliococcygeus_part_of_levator_ani__L;M_Pubococcygeus_part_of_levator_ani__R;Anal_sphincter_internal_L;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Piriformis_R;M_Piriformis_L;M_Obturator_internus_L;M_Obturator_internus_R;M_Puborectalis_part_of_levator_ani__R;Anal_sphincter_internal_R;M_Iliococcygeus_part_of_levator_ani__R;M_Anal_sphincter_external_L;M_Anal_sphincter_external_R;M_Pubococcygeus_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__R;M_Prerectal_fibers_part_of_levator_ani__R;M_Puborectalis_part_of_levator_ani__L;M_Anococcygeal_ligament;M_Prerectal_fibers_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__L;M_Iliococcygeus_part_of_levator_ani__L;M_Pubococcygeus_part_of_levator_ani__R;Anal_sphincter_internal_L;"
+          },
+          {
+            "range": "1",
+            "muscle": ""
+          }
+        ]
+      },
+      {
+        "clip": " 95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Piriformis_R;M_Piriformis_L;M_Obturator_internus_L;M_Obturator_internus_R;M_Puborectalis_part_of_levator_ani__R;Anal_sphincter_internal_R;M_Iliococcygeus_part_of_levator_ani__R;M_Anal_sphincter_external_L;M_Anal_sphincter_external_R;M_Pubococcygeus_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__R;M_Prerectal_fibers_part_of_levator_ani__R;M_Puborectalis_part_of_levator_ani__L;M_Anococcygeal_ligament;M_Prerectal_fibers_part_of_levator_ani__L;M_Coccygeus_ischiococcygeus__L;M_Iliococcygeus_part_of_levator_ani__L;M_Pubococcygeus_part_of_levator_ani__R;Anal_sphincter_internal_L;"
+          },
+          {
+            "range": "1",
+            "muscle": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nounsEN": "Pelvic and hip",
+    "nounsCN": "髋部和骨盆",
+    "nameEN": "Flexion/ extension of the hip",
+    "nameCN": "髋部伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gluteus_maximus_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Psoas_minor_R;M_Adductor_magnus_R;M_Iliacus_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Sartorius_R;M_Psoas_major_R;M_Rectus_femoris_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 67",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gluteus_maximus_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Psoas_minor_R;M_Adductor_magnus_R;M_Iliacus_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Sartorius_R;M_Psoas_major_R;M_Rectus_femoris_R;"
+          }
+        ]
+      },
+      {
+        "clip": "67, 91",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Psoas_minor_R;M_Adductor_magnus_R;M_Iliacus_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Sartorius_R;M_Psoas_major_R;M_Rectus_femoris_R;"
+          }
+        ]
+      },
+      {
+        "clip": "91, 134",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Psoas_minor_R;M_Adductor_magnus_R;M_Iliacus_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Sartorius_R;M_Psoas_major_R;M_Rectus_femoris_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nounsEN": "Pelvic and hip",
+    "nounsCN": "髋部和骨盆",
+    "nameEN": "Abduction/adduction of the hip",
+    "nameCN": "髋部外展/内收",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Adductor_magnus_R;M_Gracilis_R;M_Adductor_longus_R;Pectineus_R;M_Adductor_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Piriformis_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Adductor_magnus_R;M_Gracilis_R;M_Adductor_longus_R;Pectineus_R;M_Adductor_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Piriformis_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Adductor_magnus_R;M_Gracilis_R;M_Adductor_longus_R;Pectineus_R;M_Adductor_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Gluteus_maximus_R;M_Piriformis_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Adductor_magnus_R;M_Gracilis_R;M_Adductor_longus_R;Pectineus_R;M_Adductor_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Gluteus_maximus_R;M_Piriformis_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nounsEN": "Pelvic and hip",
+    "nounsCN": "髋部和骨盆",
+    "nameEN": "External/internal rotation of the hip",
+    "nameCN": "髋部外旋/内旋",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Quadratus_femoris_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Adductor_magnus_R;M_Quadratus_femoris_R;M_Gluteus_maximus_R;M_Piriformis_R;M_Obturator_internus_R;M_Inferior_gemellus_R;M_Superior_gemellus_R;M_Obturator_externus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 61",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Quadratus_femoris_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Adductor_magnus_R;M_Quadratus_femoris_R;M_Gluteus_maximus_R;M_Piriformis_R;M_Obturator_internus_R;M_Inferior_gemellus_R;M_Superior_gemellus_R;M_Obturator_externus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "61, 85",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Quadratus_femoris_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Adductor_magnus_R;M_Quadratus_femoris_R;M_Gluteus_maximus_R;M_Piriformis_R;M_Obturator_internus_R;M_Inferior_gemellus_R;M_Superior_gemellus_R;M_Obturator_externus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "85, 122",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Quadratus_femoris_R;M_Adductor_magnus_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Adductor_magnus_R;M_Quadratus_femoris_R;M_Gluteus_maximus_R;M_Piriformis_R;M_Obturator_internus_R;M_Inferior_gemellus_R;M_Superior_gemellus_R;M_Obturator_externus_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nounsEN": "Pelvic and hip",
+    "nounsCN": "髋部和骨盆",
+    "nameEN": "Circumduction of the hip",
+    "nameCN": "髋关节旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;M_Tensor_fasciae_latae_R;M_Psoas_major_R;M_Gluteus_medius_R;M_Psoas_minor_R;M_Sartorius_R;M_Rectus_femoris_R;M_Obturator_internus_R;M_Iliacus_R;M_Piriformis_R;Iliotibial_tract_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;Pectineus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Gluteus_maximus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 33",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;M_Tensor_fasciae_latae_R;M_Psoas_major_R;M_Gluteus_medius_R;M_Psoas_minor_R;M_Sartorius_R;M_Rectus_femoris_R;M_Obturator_internus_R;M_Iliacus_R;M_Piriformis_R;Iliotibial_tract_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;Pectineus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Gluteus_maximus_R"
+          }
+        ]
+      },
+      {
+        "clip": "33, 57",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;M_Psoas_major_R;M_Psoas_minor_R;M_Rectus_femoris_R;M_Iliacus_R;Iliotibial_tract_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;Pectineus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Sartorius_R;M_Gluteus_medius_R;M_Tensor_fasciae_latae_R;M_Piriformis_R;M_Obturator_internus_R"
+          }
+        ]
+      },
+      {
+        "clip": "57, 65",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;M_Psoas_major_R;M_Psoas_minor_R;M_Rectus_femoris_R;M_Iliacus_R;Iliotibial_tract_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;Pectineus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Gluteus_maximus_R;M_Sartorius_R;M_Gluteus_medius_R;M_Tensor_fasciae_latae_R;M_Piriformis_R;M_Obturator_internus_R"
+          }
+        ]
+      },
+      {
+        "clip": "65, 89",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;Iliotibial_tract_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Piriformis_R;M_Obturator_internus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Rectus_femoris_R;M_Iliacus_R;Pectineus_R;M_Adductor_longus_R;M_Semimembranosus_R;M_Psoas_minor_R;M_Psoas_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "89, 97",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Gracilis_R;Iliotibial_tract_R;M_Adductor_magnus_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Piriformis_R;M_Obturator_internus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;M_Rectus_femoris_R;M_Iliacus_R;Pectineus_R;M_Adductor_longus_R;M_Semimembranosus_R;M_Psoas_minor_R;M_Psoas_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "97, 121",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Iliotibial_tract_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Piriformis_R;M_Obturator_internus_R;M_Rectus_femoris_R;M_Tensor_fasciae_latae_R;M_Iliacus_R;M_Psoas_minor_R;M_Psoas_major_R;M_Semimembranosus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectineus_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gracilis_R"
+          }
+        ]
+      },
+      {
+        "clip": "121, 133",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Iliotibial_tract_R;M_Gluteus_minimus_R;M_Adductor_brevis_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Sartorius_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Piriformis_R;M_Obturator_internus_R;M_Rectus_femoris_R;M_Tensor_fasciae_latae_R;M_Iliacus_R;M_Psoas_minor_R;M_Psoas_major_R;M_Semimembranosus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Pectineus_R;M_Adductor_longus_R;M_Adductor_magnus_R;M_Gracilis_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "isFree": true,
+    "nameEN": "Flexion/extension of the knee",
+    "nameCN": "膝关节伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Tensor_fasciae_latae_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;Vastus_intermedius_R;Articularis_genu_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Gastrocnemius_triceps_surae_part__R;M_Biceps_femoris_long_head_R;M_Semimembranosus_R;Biceps_femoris_short_head_R;M_Gracilis_R;Popliteus_R;Plantaris_R;M_Semitendinosus_R;M_Sartorius_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Tensor_fasciae_latae_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;Vastus_intermedius_R;Articularis_genu_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Gastrocnemius_triceps_surae_part__R;M_Biceps_femoris_long_head_R;M_Semimembranosus_R;Biceps_femoris_short_head_R;M_Gracilis_R;Popliteus_R;Plantaris_R;M_Semitendinosus_R;M_Sartorius_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;Vastus_intermedius_R;Articularis_genu_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Gastrocnemius_triceps_surae_part__R;M_Biceps_femoris_long_head_R;M_Semimembranosus_R;Biceps_femoris_short_head_R;M_Gracilis_R;Popliteus_R;Plantaris_R;M_Semitendinosus_R;M_Sartorius_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "M_Tensor_fasciae_latae_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;Vastus_intermedius_R;Articularis_genu_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Gastrocnemius_triceps_surae_part__R;M_Biceps_femoris_long_head_R;M_Semimembranosus_R;Biceps_femoris_short_head_R;M_Gracilis_R;Popliteus_R;Plantaris_R;M_Semitendinosus_R;M_Sartorius_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Internal/external rotation of the knee",
+    "nameCN": "膝关节内旋/外旋",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Sartorius_R;Popliteus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Gracilis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 57",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Sartorius_R;Popliteus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Gracilis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "57, 81",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Sartorius_R;Popliteus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Gracilis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "81, 114",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R"
+          },
+          {
+            "range": "0",
+            "muscle": "M_Sartorius_R;Popliteus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Gracilis_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Plantarflexion/dorsiflexion of the ankle",
+    "nameCN": "踝关节跖屈/背屈",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Extensor_hallucis_longus_R;Extensor_digitorum_longus_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Soleus_triceps_surae_part__R;Peroneus_longus_R;Gastrocnemius_triceps_surae_part__R;Plantaris_R;Flexor_hallucis_longus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Extensor_hallucis_longus_R;Extensor_digitorum_longus_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Soleus_triceps_surae_part__R;Peroneus_longus_R;Gastrocnemius_triceps_surae_part__R;Plantaris_R;Flexor_hallucis_longus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Tibialis_anterior_R;Extensor_hallucis_longus_R;Extensor_digitorum_longus_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Soleus_triceps_surae_part__R;Peroneus_longus_R;Gastrocnemius_triceps_surae_part__R;Plantaris_R;Flexor_hallucis_longus_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Tibialis_anterior_R;Extensor_hallucis_longus_R;Extensor_digitorum_longus_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Soleus_triceps_surae_part__R;Peroneus_longus_R;Gastrocnemius_triceps_surae_part__R;Plantaris_R;Flexor_hallucis_longus_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Eversion/inversion of the ankle",
+    "nameCN": "踝关节外翻/内翻",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R,Tibialis_anterior_R,Flexor_hallucis_longus_R,Flexor_digitorum_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 59",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R,Tibialis_anterior_R,Flexor_hallucis_longus_R,Flexor_digitorum_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 83",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Tibialis_posterior_R,Tibialis_anterior_R,Flexor_hallucis_longus_R,Flexor_digitorum_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "83,118",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Tibialis_posterior_R,Tibialis_anterior_R,Flexor_hallucis_longus_R,Flexor_digitorum_longus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Circumduction of the ankle",
+    "nameCN": "踝关节旋转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Soleus_triceps_surae_part__R;Peroneus_brevis_R;Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Gastrocnemius_triceps_surae_part__R;Peroneus_longus_R;Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Flexor_hallucis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 35",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Soleus_triceps_surae_part__R;Peroneus_brevis_R;Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Gastrocnemius_triceps_surae_part__R;Peroneus_longus_R;Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Flexor_digitorum_longus_R;Flexor_hallucis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "35, 59",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Peroneus_brevis_R;Plantaris_R;Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Achilles_tendon__tendo_calcaneus__R;Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Tibialis_anterior_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;Peroneus_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "59, 67",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Peroneus_brevis_R;Plantaris_R;Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Tibialis_posterior_R;Achilles_tendon__tendo_calcaneus__R;Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Tibialis_anterior_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;Peroneus_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "67, 91",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Flexor_digitorum_longus_R;Tibialis_posterior_R;Flexor_hallucis_longus_R;Soleus_triceps_surae_part__R;Gastrocnemius_triceps_surae_part__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          }
+        ]
+      },
+      {
+        "clip": "91, 96",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Flexor_digitorum_longus_R;Tibialis_posterior_R;Flexor_hallucis_longus_R;Soleus_triceps_surae_part__R;Gastrocnemius_triceps_surae_part__R"
+          },
+          {
+            "range": "1",
+            "muscle": "Peroneus_longus_R;Peroneus_brevis_R;Fibularis_peroneus__tertius_R"
+          }
+        ]
+      },
+      {
+        "clip": "96, 120",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Flexor_digitorum_longus_R;Tibialis_posterior_R;Flexor_hallucis_longus_R;Soleus_triceps_surae_part__R;Gastrocnemius_triceps_surae_part__R;Peroneus_longus_R;Peroneus_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          }
+        ]
+      },
+      {
+        "clip": "120, 126",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Tibialis_anterior_R;Plantaris_R;Achilles_tendon__tendo_calcaneus__R;Flexor_digitorum_longus_R;Tibialis_posterior_R;Flexor_hallucis_longus_R;Soleus_triceps_surae_part__R;Gastrocnemius_triceps_surae_part__R;Peroneus_longus_R;Peroneus_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Fibularis_peroneus__tertius_R;Extensor_digitorum_longus_R;Extensor_hallucis_longus_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Flexion/extension of the MTP joints of the foot",
+    "nameCN": "足部跖趾关节的伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lumbricals_foot__R;Flexor_digitorum_brevis_R;Flexor_digitorum_longus_R;Plantar_interossei_R;Flexor_hallucis_brevis_R;Flexor_hallucis_longus_R;Dorsal_interossei_foot__R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Lumbricals_foot__R;Flexor_digitorum_brevis_R;Flexor_digitorum_longus_R;Plantar_interossei_R;Flexor_hallucis_brevis_R;Flexor_hallucis_longus_R;Dorsal_interossei_foot__R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lumbricals_foot__R;Flexor_digitorum_brevis_R;Flexor_digitorum_longus_R;Plantar_interossei_R;Flexor_hallucis_brevis_R;Flexor_hallucis_longus_R;Dorsal_interossei_foot__R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_hallucis_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Lumbricals_foot__R;Flexor_digitorum_brevis_R;Flexor_digitorum_longus_R;Plantar_interossei_R;Flexor_hallucis_brevis_R;Flexor_hallucis_longus_R;Dorsal_interossei_foot__R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Adduction/abduction of the MTP joints of the foot",
+    "nameCN": "足部跖趾关节的外展/内收",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Dorsal_interossei_foot__R;Abductor_digiti_minimi_foot__R;Abductor_hallucis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_hallucis_transverse_head__R;Plantar_interossei_R"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Dorsal_interossei_foot__R;Abductor_digiti_minimi_foot__R;Abductor_hallucis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Adductor_hallucis_transverse_head__R;Plantar_interossei_R"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Dorsal_interossei_foot__R;Abductor_digiti_minimi_foot__R;Abductor_hallucis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_hallucis_transverse_head__R;Plantar_interossei_R"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Dorsal_interossei_foot__R;Abductor_digiti_minimi_foot__R;Abductor_hallucis_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Adductor_hallucis_transverse_head__R;Plantar_interossei_R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "nounsEN": "Lower limbs",
+    "nounsCN": "下肢",
+    "nameEN": "Flexion/extension of the IP joints of the foot",
+    "nameCN": "足部趾间关节的伸展/屈曲",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R;Dorsal_interossei_foot__R;Lumbricals_foot__R;Plantar_interossei_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Flexor_digitorum_brevis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "24, 71",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R;Dorsal_interossei_foot__R;Lumbricals_foot__R;Plantar_interossei_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Flexor_digitorum_brevis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "71, 95",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R;Dorsal_interossei_foot__R;Lumbricals_foot__R;Plantar_interossei_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Flexor_digitorum_brevis_R;"
+          }
+        ]
+      },
+      {
+        "clip": "95, 142",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "1",
+            "muscle": "Extensor_digitorum_longus_R;Extensor_digitorum_brevis_R;Extensor_hallucis_brevis_R;Dorsal_interossei_foot__R;Lumbricals_foot__R;Plantar_interossei_R"
+          },
+          {
+            "range": "0",
+            "muscle": "Flexor_digitorum_longus_R;Flexor_hallucis_longus_R;Flexor_digitorum_brevis_R;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "nounsEN": "Gross motor movement",
+    "isFree": true,
+    "nounsCN": "粗大运动",
+    "nameEN": "Push ups",
+    "nameCN": "俯卧撑",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "1,18",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Serratus_anterior_R;Pectoralis_major_R;Deltoid_anterior_head_R;Deltoid_middle_head_R;Triceps_brachii_long_head_R;Triceps_brachii_lateral_head_R;Triceps_brachii_medial_head_R;Coracobrachialis_R;Pectoralis_minor_R"
+      },
+      {
+        "clip": "1,18",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Deltoid_posterior_head_R;Splenius_capitis_R;Semispinalis_capitis_medial_fascicle__R;M_Longissimus_thoracis_R;M_Iliocostalis_lumborum_R;Biceps_brachii_long_head_R;Semispinalis_capitis_lateral_fascicle__R;Rhomboideus_minor_R;Biceps_brachii_short_head_R;Rhomboideus_major_R;Spinalis_thoracis_R;"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Sit ups",
+    "nameCN": "仰卧起坐",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "1,30",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R"
+      },
+      {
+        "clip": "1,48",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Rectus_abdominis_R;M_Rectus_abdominis_L"
+      },
+      {
+        "clip": "1,12",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Sternocleidomastoid_R"
+      },
+      {
+        "clip": "36,48",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Sternocleidomastoid_R"
+      },
+      {
+        "clip": "30,48",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Stand from sitting",
+    "nameCN": "从坐姿站起",
+    "actionGenre": 0,
+    "stages": [
+      {
+        "clip": "1,48",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "Iliocostalis_cervicis_R;Longissimus_cervicis_R;Longissimus_capitis_R;Semispinalis_capitis_lateral_fascicle__R;Semispinalis_capitis_medial_fascicle__R;M_Iliocostalis_lumborum_R"
+      },
+      {
+        "clip": "1,48",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R"
+      },
+      {
+        "clip": "1,24",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Adductor_magnus_R;M_Adductor_longus_R;M_Transversus_abdominis_R"
+      },
+      {
+        "clip": "36,48",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Adductor_magnus_R;M_Adductor_longus_R;M_Transversus_abdominis_R"
+      },
+      {
+        "clip": "1,48",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Vastus_medialis_R;Vastus_lateralis_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;Vastus_intermedius_R;M_Rectus_femoris_R;"
+      },
+      {
+        "clip": "1,24",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_External_oblique_R;M_Internal_oblique_R;M_Rectus_abdominis_L"
+      },
+      {
+        "clip": "36,48",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_External_oblique_R;M_Internal_oblique_R;M_Rectus_abdominis_L"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Standing jump forwards",
+    "nameCN": "立定向前跳",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,40",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Rectus_abdominis_R"
+      },
+      {
+        "clip": "1,8",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R"
+      },
+      {
+        "clip": "1,8",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "8,14",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "6,14",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R"
+      },
+      {
+        "clip": "14,18",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Peroneus_longus_R;Flexor_digitorum_longus_R;Tibialis_posterior_R"
+      },
+      {
+        "clip": "14,20",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R"
+      },
+      {
+        "clip": "14,20",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Adductor_magnus_R"
+      },
+      {
+        "clip": "18,22",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R"
+      },
+      {
+        "clip": "22,27",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Gluteus_maximus_R"
+      },
+      {
+        "clip": "22,27",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R;Extensor_digitorum_longus_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "24,27",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "27,32",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;M_Gluteus_maximus_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Rectus_femoris_R;Vastus_lateralis_R;Vastus_medialis_R"
+      },
+      {
+        "clip": "27,32",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Peroneus_longus_R;Tibialis_anterior_R;Extensor_digitorum_longus_R;Flexor_digitorum_longus_R;Tibialis_posterior_R;M_Adductor_magnus_R"
+      },
+      {
+        "clip": "32,40",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Tensor_fasciae_latae_R;M_Sartorius_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Iliacus_R;M_Psoas_major_R"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Standing jump upwards",
+    "nameCN": "立定跳高",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R"
+      },
+      {
+        "clip": "1,17",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Adductor_magnus_R;M_Rectus_femoris_R"
+      },
+      {
+        "clip": "1,14",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R"
+      },
+      {
+        "clip": "17,29",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;Peroneus_longus_R;Extensor_digitorum_longus_R;Tibialis_anterior_R;Flexor_digitorum_longus_R;Tibialis_posterior_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Rectus_femoris_R"
+      },
+      {
+        "clip": "17,29",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Sartorius_R;M_Iliacus_R;M_Psoas_major_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R;M_Tensor_fasciae_latae_R"
+      },
+      {
+        "clip": "29,32",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;M_Rectus_femoris_R"
+      },
+      {
+        "clip": "32,38",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R;M_Tensor_fasciae_latae_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R"
+      },
+      {
+        "clip": "38,50",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Extensor_digitorum_longus_R;Tibialis_anterior_R;Peroneus_longus_R;Flexor_digitorum_longus_R;Tibialis_posterior_R;M_Tensor_fasciae_latae_R;M_Sartorius_R;M_Iliacus_R;M_Psoas_major_R;Pectineus_R;M_Adductor_longus_R;M_Adductor_brevis_R"
+      },
+      {
+        "clip": "38,50",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;Biceps_femoris_short_head_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Semimembranosus_R;M_Rectus_femoris_R"
+      },
+      {
+        "clip": "",
+        "rgb": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Walking",
+    "nameCN": "步行",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,28",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Gluteus_minimus_R"
+      },
+      {
+        "clip": "1,7",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R;M_Semitendinosus_R"
+      },
+      {
+        "clip": "7,12",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Sartorius_R;M_Iliacus_R;M_Psoas_major_R"
+      },
+      {
+        "clip": "7,12",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Biceps_femoris_long_head_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;M_Adductor_magnus_R;M_Gluteus_medius_R"
+      },
+      {
+        "clip": "12,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R"
+      },
+      {
+        "clip": "12,17",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;"
+      },
+      {
+        "clip": "10,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Extensor_digitorum_longus_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "17,28",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Adductor_magnus_R"
+      },
+      {
+        "clip": "17,28",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R"
+      },
+      {
+        "clip": "22,28",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "22,28",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Extensor_digitorum_longus_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "",
+        "rgb": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Walking upstairs",
+    "nameCN": "走上楼",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,49",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Rectus_abdominis_R;M_Quadratus_lumborum_R"
+      },
+      {
+        "clip": "1,12",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "18,28",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "28,40",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "40,49",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "18,28",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Extensor_digitorum_longus_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "28,40",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Extensor_digitorum_longus_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "1,18",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Vastus_lateralis_R;Vastus_medialis_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_magnus_R"
+      },
+      {
+        "clip": "1,18",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R"
+      },
+      {
+        "clip": "18,49",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Vastus_lateralis_R;Vastus_medialis_R;M_Gluteus_maximus_R;M_Gluteus_medius_R;M_Gluteus_minimus_R;M_Adductor_magnus_R"
+      },
+      {
+        "clip": "18,49",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Psoas_major_R;M_Iliacus_R;M_Sartorius_R"
+      },
+      {
+        "clip": "1,49",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Biceps_femoris_long_head_R;M_Semitendinosus_R;Biceps_femoris_short_head_R;M_Rectus_femoris_R;M_Semimembranosus_R"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Jogging",
+    "nameCN": "慢跑",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,7",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Tibialis_anterior_R;Extensor_digitorum_longus_R;M_Gluteus_maximus_R;Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;M_Gluteus_medius_R"
+      },
+      {
+        "clip": "1,7",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R"
+      },
+      {
+        "clip": "7,12",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Adductor_magnus_R"
+      },
+      {
+        "clip": "7,12",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Iliacus_R;M_Psoas_major_R;M_Tensor_fasciae_latae_R;M_Sartorius_R;Tibialis_anterior_R"
+      },
+      {
+        "clip": "12,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Vastus_lateralis_R;M_Rectus_femoris_R;Vastus_medialis_R;M_Biceps_femoris_long_head_R;M_Semitendinosus_R;M_Adductor_magnus_R;"
+      },
+      {
+        "clip": "14,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;M_Gluteus_medius_R;Extensor_digitorum_longus_R"
+      },
+      {
+        "clip": "12,17",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Iliacus_R;M_Psoas_major_R;M_Tensor_fasciae_latae_R;M_Sartorius_R"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "Baseball pitch",
+    "nameCN": "棒球投掷",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,20",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Triceps_brachii_medial_head_R;Triceps_brachii_lateral_head_R;Anconeus_R"
+      },
+      {
+        "clip": "1,20",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Brachioradialis_R;Brachialis_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;"
+      },
+      {
+        "clip": "26,34",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Triceps_brachii_medial_head_R;Triceps_brachii_lateral_head_R;Anconeus_R"
+      },
+      {
+        "clip": "26,34",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Brachioradialis_R;Brachialis_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;"
+      },
+      {
+        "clip": "38,46",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Triceps_brachii_medial_head_R;Triceps_brachii_lateral_head_R;Anconeus_R"
+      },
+      {
+        "clip": "38,46",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Brachioradialis_R;Brachialis_R;Biceps_brachii_long_head_R;Biceps_brachii_short_head_R;"
+      },
+      {
+        "clip": "48,54",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Triceps_brachii_medial_head_R;Triceps_brachii_lateral_head_R;Anconeus_R;Triceps_brachii_long_head_R"
+      },
+      {
+        "clip": "1,36",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Latissimus_dorsi_R;Teres_major_R;Teres_minor_R;Infraspinatus_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Deltoid_anterior_head_R;Pectoralis_major_R;Trapezius_R"
+      },
+      {
+        "clip": "36,46",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Latissimus_dorsi_R;Teres_major_R;Teres_minor_R;Infraspinatus_R;Deltoid_posterior_head_R;Deltoid_middle_head_R;Deltoid_anterior_head_R;Pectoralis_major_R;Trapezius_R"
+      },
+      {
+        "clip": "46,54",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Teres_major_R;Infraspinatus_R;Deltoid_posterior_head_R"
+      },
+      {
+        "clip": "1,54",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "Levator_scapulae_R;Serratus_anterior_R;Rhomboideus_major_R"
+      },
+      {
+        "clip": "54,60",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "Infraspinatus_R;Rhomboideus_major_R;Levator_scapulae_R;Serratus_anterior_R;Triceps_brachii_long_head_R;Anconeus_R"
+      },
+      {
+        "clip": "54,60",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Deltoid_middle_head_R;Triceps_brachii_medial_head_R;Triceps_brachii_lateral_head_R;Triceps_brachii_long_head_R;Anconeus_R"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "kicking",
+    "nameCN": "踢",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "1,22",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Rectus_abdominis_R"
+      },
+      {
+        "clip": "1,9",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R;M_Adductor_magnus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;M_Rectus_femoris_R;M_Psoas_major_R;M_Iliacus_R"
+      },
+      {
+        "clip": "9,14",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "M_Gluteus_maximus_R;M_Semimembranosus_R;M_Semitendinosus_R;M_Biceps_femoris_long_head_R;M_Iliacus_R"
+      },
+      {
+        "clip": "1,9",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "M_Tensor_fasciae_latae_R;M_Sartorius_R;Extensor_digitorum_longus_R"
+      },
+      {
+        "clip": "9,14",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Tensor_fasciae_latae_R;M_Sartorius_R;Extensor_digitorum_longus_R"
+      },
+      {
+        "clip": "1,14",
+        "color": "#0000ff",
+        "range": "0,0",
+        "muscle": "Vastus_lateralis_R;Vastus_medialis_R;Flexor_digitorum_longus_R;Tibialis_posterior_R"
+      },
+      {
+        "clip": "14,17",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Biceps_femoris_long_head_R;Vastus_lateralis_R;Vastus_medialis_R;Flexor_digitorum_longus_R;Tibialis_posterior_R"
+      },
+      {
+        "clip": "17,22",
+        "color": "#0000ff",
+        "range": "0",
+        "muscle": "Gastrocnemius_triceps_surae_part__R;Soleus_triceps_surae_part__R;Tibialis_posterior_R;Flexor_digitorum_longus_R"
+      },
+      {
+        "clip": "17,22",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Gluteus_maximus_R"
+      },
+      {
+        "clip": "18,22",
+        "color": "#0000ff",
+        "range": "1",
+        "muscle": "M_Semimembranosus_R;M_Semitendinosus_R;M_Iliacus_R"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "nounsEN": "Gross motor movement",
+    "nounsCN": "粗大运动",
+    "nameEN": "kicking",
+    "nameCN": "脊柱环转",
+    "actionGenre": 1,
+    "stages": [
+      {
+        "clip": "0, 24",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;M_Rectus_sheath_R;M_Psoas_major_R;Semispinalis_thoracis_R;M_Longissimus_thoracis_R;M_Transversus_abdominis_R;M_External_oblique_R;Intertransversarii_thoracis_L;M_Quadratus_lumborum_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Multifidus_R;Intertransversarii_posteriores_cervicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_External_oblique_L;M_Transversus_abdominis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;Fifth_rib_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;M_Multifidus_L;Intertransversarii_posteriores_cervicis_L;Intertransversarii_anteriores_cervicis_L;M_Psoas_major_L;M_Rectus_sheath_L;M_Quadratus_lumborum_L"
+          }
+        ]
+      },
+      {
+        "clip": "24, 53",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;M_Rectus_sheath_R;M_Psoas_major_R;Semispinalis_thoracis_R;M_Longissimus_thoracis_R;M_Transversus_abdominis_R;M_External_oblique_R;Intertransversarii_thoracis_L;M_Quadratus_lumborum_R;M_Iliocostalis_lumborum_R;Iliocostalis_thoracis_R;M_Multifidus_R;Intertransversarii_posteriores_cervicis_R"
+          },
+          {
+            "range": "1",
+            "muscle": "M_External_oblique_L;M_Transversus_abdominis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;Fifth_rib_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;M_Multifidus_L;Intertransversarii_posteriores_cervicis_L;Intertransversarii_anteriores_cervicis_L;M_Psoas_major_L;M_Rectus_sheath_L;M_Quadratus_lumborum_L"
+          }
+        ]
+      },
+      {
+        "clip": "53, 77",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;M_Rectus_sheath_R;M_Transversus_abdominis_R;M_External_oblique_R;Intertransversarii_thoracis_L;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;Fifth_rib_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;M_Multifidus_L;Intertransversarii_posteriores_cervicis_L;Intertransversarii_anteriores_cervicis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "77, 109",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;M_Rectus_sheath_R;M_Transversus_abdominis_R;M_External_oblique_R;Intertransversarii_thoracis_L;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L"
+          },
+          {
+            "range": "1",
+            "muscle": "M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;Fifth_rib_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;M_Multifidus_L;Intertransversarii_posteriores_cervicis_L;Intertransversarii_anteriores_cervicis_L;M_Psoas_major_L;M_Quadratus_lumborum_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R"
+          }
+        ]
+      },
+      {
+        "clip": "109, 133",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;Intertransversarii_thoracis_L;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L;Intertransversarii_anteriores_cervicis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;M_Psoas_major_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;Intertransversarii_posteriores_cervicis_L;M_Quadratus_lumborum_L;M_Multifidus_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Fifth_rib_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_External_oblique_R;M_Rectus_sheath_R;M_Transversus_abdominis_R"
+          }
+        ]
+      },
+      {
+        "clip": "133, 165",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;Intertransversarii_thoracis_L;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L;Intertransversarii_anteriores_cervicis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;M_Psoas_major_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;Intertransversarii_posteriores_cervicis_L;M_Quadratus_lumborum_L;M_Multifidus_L"
+          },
+          {
+            "range": "1",
+            "muscle": "Fifth_rib_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R;M_External_oblique_R;M_Rectus_sheath_R;M_Transversus_abdominis_R"
+          }
+        ]
+      },
+      {
+        "clip": "165, 189",
+        "isChange": true,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;Intertransversarii_thoracis_L;Intertransversarii_anteriores_cervicis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;M_Psoas_major_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;Intertransversarii_posteriores_cervicis_L;M_Quadratus_lumborum_L;M_Multifidus_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Fifth_rib_L;M_External_oblique_R;M_Rectus_sheath_R;M_Transversus_abdominis_R;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L;"
+          }
+        ]
+      },
+      {
+        "clip": "189, 219",
+        "isChange": false,
+        "muscleList": [
+          {
+            "range": "0",
+            "muscle": "M_Linea_alba;Intertransversarii_thoracis_L;Intertransversarii_anteriores_cervicis_L;M_Iliocostalis_lumborum_L;M_Longissimus_thoracis_L;M_Psoas_major_L;Semispinalis_thoracis_L;Iliocostalis_thoracis_L;Intertransversarii_posteriores_cervicis_L;M_Quadratus_lumborum_L;M_Multifidus_L;Semispinalis_thoracis_R;Intertransversarii_posteriores_cervicis_R;M_Iliocostalis_lumborum_R;M_Multifidus_R;M_Quadratus_lumborum_R;M_Longissimus_thoracis_R;Iliocostalis_thoracis_R;M_Psoas_major_R"
+          },
+          {
+            "range": "1",
+            "muscle": "Fifth_rib_L;M_External_oblique_R;M_Rectus_sheath_R;M_Transversus_abdominis_R;M_External_oblique_L;M_Transversus_abdominis_L;M_Rectus_sheath_L;"
+          }
+        ]
+      }
+    ]
+  }
+]
